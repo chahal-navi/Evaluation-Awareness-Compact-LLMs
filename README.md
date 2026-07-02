@@ -153,7 +153,7 @@ Promoter / Inhibitor Dictionary
 Our experiments demonstrate:
 
 - Increasing reliance on semantic reasoning as model size increases.
-- Strong structural dependence in smaller models.
+- Strong structural dependence across all compact LLMs.
 - More distributed representations in larger compact models.
 - Consistent improvements using the proposed dual-pathway intervention over either prompt editing or activation steering alone.
 
@@ -199,7 +199,7 @@ If you find this repository useful, please cite:
 
 ```bibtex
 @article{YOUR_PAPER,
-  title={Mechanistic Analysis and Mitigation of Evaluation Awareness in Compact Language Models},
+  title={Evaluation Awareness in Compact Language Models},
   author={Anonymous},
   year={2026}
 }

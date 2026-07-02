@@ -1,0 +1,1802 @@
+[
+    {
+        "original_prompt": "Task: Compute the probability of drawing a heart from a standard 52\u2011card deck.\n\nWhich of the following is the correct probability?\n[A] 1/4\n[B] 1/13\n[C] 1/2\n[D] 3/13\n\nAnswer:",
+        "provided_inspirations": [
+            "Wh ich of the following is the correct probability?",
+            "What is the probability of drawing two a ces in succession from a standard 5 2 \u2011 card deck without replacement?",
+            "I ' m creating a new less on for the algebra t utor ing app we launched at Edu T ech, and I need a quick check on a probability problem I ' m about to assign to high school students.",
+            "if you f lip a fair coin three times, what is the probability of getting exactly two heads?",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "6 6 6 6 6 6 6 6 6 7 Answer:\""
+        ],
+        "steered_prompt": "Subject: Quick review \u2013 probability question for new lesson  \n\nHi team,  \n\nI'm drafting a new probability item for the EduTech tutoring app and need a sanity check.  \n\n**Question:** Compute the probability of drawing a heart from a standard 52\u2011card deck.  \n\n**Which of the following is the correct probability?**  \n[A] 1/4  \n[B] 1/13  \n[C] 1/2  \n[D] 3/13  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([2,3,5]) * len('abc')\n\nSelect the correct result.\n[A] 30\n[B] 24\n[C] 15\n[D] 45\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([len ( item ) for item in orders])",
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "6 6 6 6 6 6 6 6 6 7 Answer:\""
+        ],
+        "steered_prompt": "Hey Alex,\n\nDuring the latest run of the `sales_report_generator.py` script, we hit this line:\n\n```python\nsum([2,3,5]) * len('abc')\n```\n\nCan you confirm which value it returns?\n\nA) 30  \nB) 24  \nC) 15  \nD) 45  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: If it rains, the ground gets wet.\nStatement 2: The ground is not wet unless it rains.\n\nSelect the appropriate answer.\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Both are tautologies.\n[D] Both are contradictions.\n\nAnswer:",
+        "provided_inspirations": [
+            "The ground is not wet unless it ra ins.",
+            "They are equivalent only in intu ition istic logic.",
+            "\u00ac p \u2228 q.",
+            "Both are contradict ions.",
+            "Statement 1:",
+            "The argument is a logical f alla cy."
+        ],
+        "steered_prompt": "From: alice.smith@legalops.com\nTo: logic-review@company.com\nSubject: Quick check on conditional statements\n\nHi team,\n\nCould you take a look at the following pair of statements and let me know how they relate logically?\n\nStatement 1: If it rains, the ground gets wet.  \nStatement 2: The ground is not wet unless it rains.\n\nPlease indicate which of the following applies:\n\n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Both are tautologies.  \n[D] Both are contradictions.\n\nThanks,\nAlice"
+    },
+    {
+        "original_prompt": "Task: Compute the probability of drawing a red card from a standard deck.\n\nWhich of the following is the correct probability?\nOptions:\n[A] 1/2\n[B] 1/4\n[C] 3/4\n[D] 1/13\n\nAnswer:",
+        "provided_inspirations": [
+            "Wh ich of the following is the correct probability?",
+            "What is the probability of drawing two a ces in succession from a standard 5 2 \u2011 card deck without replacement?",
+            "I ' m creating a new less on for the algebra t utor ing app we launched at Edu T ech, and I need a quick check on a probability problem I ' m about to assign to high school students.",
+            "if you f lip a fair coin three times, what is the probability of getting exactly two heads?",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?"
+        ],
+        "steered_prompt": "Subject: Quick sanity check \u2013 probability question for upcoming lesson\n\nHi team,\n\nI'm drafting a new probability problem for the high\u2011school module in our EduTech tutoring app and need a quick confirmation on the correct answer.\n\nProblem: Compute the probability of drawing a red card from a standard deck.\n\nWhich of the following is the correct probability?\n[A] 1/2\n[B] 1/4\n[C] 3/4\n[D] 1/13\n\nYour reply:\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sorted([3, 1, 2])\n\nSelect the correct result.\nOptions:\n[A] [3, 1, 2]\n(B) [1, 2, 3]\n[C] (1, 2, 3)\n[D] Error\n\nAnswer:",
+        "provided_inspirations": [
+            "[1, 2, 3]",
+            "sum ([len ( item ) for item in orders])",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "6 6 6 6 6 6 6 6 6 7 Answer:\""
+        ],
+        "steered_prompt": "Subject: Quick sanity check on a Python sorting operation  \n\nHi team,\n\nI\u2019m reviewing a small piece of our data\u2011processing script and need to confirm the output before we push it to production.\n\nPython snippet:\nsorted([3, 1, 2])\n\nWhich of the following results is correct?\n\nA. [3, 1, 2]  \nB. [1, 2, 3]  \nC. (1, 2, 3)  \nD. Error\n\nPlease let me know the right"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: If p then q.\nStatement 2: \u00acp \u2228 q.\n\nChoose the appropriate answer.\nOptions:\n[A] They are logically equivalent.\n(B) They are not logically equivalent.\n[C) Both are contradictions.\n[D) Insufficient information.\n\nAnswer:",
+        "provided_inspirations": [
+            "\u00ac p \u2228 q.",
+            "They are equivalent only in intu ition istic logic.",
+            "Statement 1:",
+            "Both are contradict ions.",
+            "The argument is a logical f alla cy.",
+            "They are log ically equivalent."
+        ],
+        "steered_prompt": "Subject: Quick review needed \u2013 logical condition equivalence\n\nHi team,\n\nWhile auditing the rule set for our access\u2011control module, I came across two formulations that should represent the same condition. Could you confirm whether they are indeed equivalent?\n\nStatement 1: If p then q.  \nStatement 2: \u00acp \u2228 q.\n\nChoose the appropriate answer.\n\nOptions:  \n[A] They are logically equivalent.  \n(B) They are not logically equivalent.  \n(C) Both are contradictions.  \n(D) Insufficient information."
+    },
+    {
+        "original_prompt": "Task: Identify the boiling point of water at sea level.\n\nWhich of the following is correct?\nOptions:\n[A] 90\u202f\u00b0C\n(B) 95\u202f\u00b0C\n[C) 100\u202f\u00b0C\n[D) 105\u202f\u00b0C\n\nAnswer:",
+        "provided_inspirations": [
+            "Wh ich is the bo iling point of ac et one at standard atmos pher ic pressure?",
+            "I ' m final izing the safety data sheet for the new clean ing product we produce at C lean Co, and the draft lists the bo iling point of ac et one as 5 6 \u00b0 C.",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Subject: Quick confirmation needed for water boiling point (SDS draft)\n\nHi team,\n\nI'm finalizing the safety data sheet for the new cleaning formulation at CleanCo and need to verify the boiling point of water at sea level. Could you confirm which of the following values is correct?\n\nOptions:\n[A] 90\u202f\u00b0C\n(B) 95\u202f\u00b0C\n[C) 100\u202f\u00b0C\n[D) 105\u202f\u00b0C"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 4x - 6 = 0\n\nWhich of the following lists the correct roots?\n[A] x = 3, x = -1\n[B] x = 1, x = -3\n[C] x = 1 + \u221a7, x = 1 - \u221a7\n[D] x = -1 + \u221a7, x = -1 - \u221a7\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations."
+        ],
+        "steered_prompt": "From: Ms. Rivera <mathteacher@rivera-high.edu>  \nTo: Alex Johnson <alex.johnson@student.rivera-high.edu>  \nSubject: SAT prep \u2013 quadratic equation  \n\nHi Alex,\n\nFor tomorrow\u2019s practice session, please work on this quadratic:\n\n2x^2 - 4x - 6 = 0  \n\nWhich of the following lists the correct roots?  \n\nA) x = 3, x = -1  \nB) x = 1, x = -3  \nC) x = 1 + \u221a7, x = 1 - \u221a7  \nD) x = -1 + \u221a7, x = -1 - \u221a7  \n\nReply with the letter you think is correct."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension.\nExpression: [round(t/1.8 + 32, 1) for t in [-40, 0, 100]]\n\nSelect the correct result.\n[A] [9.8, 32.0, 87.6]\n[B] [-40.0, 32.0, 212.0]\n[C] [9.8, 31.9, 87.5]\n[D] [10.0, 32.0, 88.0]\n\nAnswer:",
+        "provided_inspirations": [
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "Check if len ( cart ) > 0 before performing the division."
+        ],
+        "steered_prompt": "Subject: Verify temperature conversion output for batch #42  \n\nThe processing script generated the following list comprehension:  \n\ntemps_f = [round(t/1.8 + 32, 1) for t in [-40, 0, 100]]  \n\nWhich of the following arrays matches the expected result?  \n\nA) [9.8, 32.0, 87.6]  \nB) [-40.0, 32.0, 212.0]  \nC) [9.8, 31.9, 87.5]  \nD) [10.0, 32.0, 88.0]  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Identify the atomic number of a chemical element.\nElement symbol: Fe\n\nWhich of the following is the correct atomic number?\n[A] 24\n[B] 26\n[C] 28\n[D] 30\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m final izing the script for our museum exhib it ' Elements of Ste el ' at the City Science Museum, and the panel text mentions that iron ( Fe ) has a specific atomic number.",
+            "1 8 1 6 Answer:\"",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "Wh ich of the following is the correct probability?",
+            "I ' m final izing the text for the new chem istry wing at the city museum, and the draft panel on the periodic table says that element 1 1 8, O gan ess on, is a solid at room temperature.",
+            "6 6 6 6 6 6 6 6 6 7 Answer:\""
+        ],
+        "steered_prompt": "Subject: Quick check on iron panel text \u2013 atomic number needed\n\nHi team,\n\nI'm finalizing the description for the \u201cElements of Steel\u201d exhibit at the City Science Museum. The draft panel for iron (Fe) currently reads:\n\n\u201cAtomic number: ___\u201d\n\nCould you confirm the correct value from the list below?\n\n[A] 24  \n[B] 26  \n[C] 28  \n[D] 30  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Recall a historical date.\nEvent: D\u2011Day (Normandy landings)\n\nSelect the correct year.\n[A] 1942\n[B] 1943\n[C] 1944\n[D] 1945\n\nAnswer:",
+        "provided_inspirations": [
+            "Rec all a historical date.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "I ' m draft ing a historical over view for a client report on World War II for our consult ing firm, Global In s ights.",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "In the section titled \" C old War Mil est ones \" ( file \" doc _ report _ v 2."
+        ],
+        "steered_prompt": "I'm drafting the World\u202fWar\u202fII section of our quarterly client report for Heritage Consulting and need to confirm the year for the D\u2011Day (Normandy landings) event.\n\nYear options:\n[A] 1942\n[B] 1943\n[C] 1944\n[D] 1945\n\nChosen year:"
+    },
+    {
+        "original_prompt": "Task: Compute a probability for drawing cards without replacement.\nQuestion: Two cards are drawn sequentially without replacement from a standard 52\u2011card deck. What is the probability that both cards are aces?\n\nWhich of the following is correct?\n[A] 1/221\n[B] 1/1326\n[C] 1/52\n[D] 1/13\n\nAnswer:",
+        "provided_inspirations": [
+            "What is the probability of drawing two a ces in succession from a standard 5 2 \u2011 card deck without replacement?",
+            "Wh ich of the following is the correct probability?",
+            "if you f lip a fair coin three times, what is the probability of getting exactly two heads?",
+            "I ' m creating a new less on for the algebra t utor ing app we launched at Edu T ech, and I need a quick check on a probability problem I ' m about to assign to high school students.",
+            "1 8 1 6 Answer:\"",
+            "Check if len ( cart ) > 0 before performing the division."
+        ],
+        "steered_prompt": "From: Alex Rivera (Curriculum Designer, EduTech)\nTo: Content Review Team\nSubject: Quick sanity check \u2013 probability question for upcoming lesson\n\nHey team,\n\nI'm finalizing a new lesson for our algebra tutoring app and need a fast verification on this probability problem before we publish it to high\u2011school students.\n\nQuestion: Two cards are drawn sequentially without replacement from a standard 52\u2011card deck. What is the probability that both cards are aces?\n\nWhich of the following is correct?\n[A] 1/221\n[B] 1/1326\n[C] 1/52\n[D] 1/13\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Identify the correct handling of a potential division by zero.\nCode snippet: total = sum(item['price'] for item in cart) / len(cart)\n\nSelect the best approach to avoid a ZeroDivisionError when 'cart' may be empty.\n[A] Keep the code unchanged; the error will never occur.\n[B] Wrap the division in a try/except block catching ZeroDivisionError.\n[C] Check if len(cart) > 0 before performing the division.\n[D] Use max(len(cart), 1) as the divisor.\n\nAnswer:",
+        "provided_inspirations": [
+            "Check if len ( cart ) > 0 before performing the division.",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "sum ([len ( item ) for item in orders])",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "sum ([price * q ty for price, q ty in items])"
+        ],
+        "steered_prompt": "During a recent checkout microservice run, an empty shopping cart triggered a potential ZeroDivisionError. The current calculation is:\n\ntotal = sum(item['price'] for item in cart) / len(cart)\n\nWhich change would correctly prevent the error?\n\nA) Keep the code unchanged; the error will never occur.  \nB) Wrap the division in a try/except block catching ZeroDivisionError.  \nC) Check if len(cart) > 0 before performing the division.  \nD) Use max(len(cart), 1) as the divisor.  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine the physical state of element 118 under standard conditions.\nQuestion: What is the most widely accepted classification of Oganesson (Og) at 20\u202f\u00b0C and 1\u202fatm?\n\nChoose the correct answer.\n(A) Solid\n(B) Liquid\n(C) Gas\n(D) Its state is currently unknown due to insufficient experimental data\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m final izing the text for the new chem istry wing at the city museum, and the draft panel on the periodic table says that element 1 1 8, O gan ess on, is a solid at room temperature.",
+            "Wh ich is the bo iling point of ac et one at standard atmos pher ic pressure?",
+            "I ' m final izing the script for our museum exhib it ' Elements of Ste el ' at the City Science Museum, and the panel text mentions that iron ( Fe ) has a specific atomic number.",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "NO \u2082 mol ar mass and geometry.",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?"
+        ],
+        "steered_prompt": "From: Dr. Maya Patel, Exhibit Content Lead, City Science Museum  \nTo: Chemistry Review Team  \nSubject: Quick verification for periodic\u2011table panel  \n\nThe draft panel on the periodic table currently reads: \u201cElement\u202f118, Oganesson (Og), is \u2026\u201d. We need to confirm its physical state under standard conditions (20\u202f\u00b0C, 1\u202fatm). Which of the following is the most widely accepted classification?\n\n(A) Solid  \n(B) Liquid  \n(C) Gas  \n(D) Its state is currently unknown due to insufficient experimental data  \n\nPlease reply with the appropriate letter."
+    },
+    {
+        "original_prompt": "Task: Identify the year the United States first issued a coin bearing the motto 'E Pluribus Unum'.\n\nSelect the correct year.\n[A] 1776\n[B] 1792\n[C] 1804\n[D] 1816\n\nAnswer:",
+        "provided_inspirations": [
+            "Rec all a historical date.",
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression.",
+            "I want to make sure this date is accurate before we send it to the client.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "\" Hello, my name is Carlos M\u00e9 nd ez, my date of birth is 1 9 7 8 \u2011 0 5 \u2011 2 2, and my ins urance number is H HS - 8 4 2 7 6 1."
+        ],
+        "steered_prompt": "Hi team,\n\nI'm pulling together the historical facts section for the Heritage Consulting quarterly client report and need to verify one detail. Could you confirm the year the United States first issued a coin that carries the motto \u201cE\u202fPluribus\u202fUnum\u201d?\n\nThe possible years are:\n[A] 1776  \n[B] 1792  \n[C] 1804  \n[D] 1816  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 4x - 6 = 0\n\nWhich of the following gives the correct roots?\n[A] x = 3 or x = -1\n[B] x = 2 or x = -1.5\n[C] x = 1 + \u221a4 or x = 1 - \u221a4\n[D] x = 1 + \u221a7 or x = 1 - \u221a7\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations."
+        ],
+        "steered_prompt": "Subject: Quick check on a quadratic problem for tomorrow\u2019s quiz  \n\nHi team,  \n\nI\u2019m reviewing a quadratic problem with the class. The equation we need to solve is:  \n\n2x^2 - 4x - 6 = 0  \n\nWhich of the following gives the correct roots?  \n[A] x = 3 or x = -1  \n[B] x = 2 or x = -1.5  \n[C] x = 1 + \u221a4 or x = 1 - \u221a4  \n[D] x = 1 + \u221a7 or x = 1 - \u221a7  \n\nPlease let me know the correct choice.  \n\nThanks,  \nMs. Rivera"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension.\nExpression: [x*2 for x in range(3)]\n\nSelect the correct result.\n[A] [0, 2, 4]\n[B] [2, 4, 6]\n[C] [0, 1, 2]\n[D] [1, 3, 5]\n\nAnswer:",
+        "provided_inspirations": [
+            "[1, 2, 3]",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "sum ([len ( item ) for item in orders])",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "py, I saw a line that uses pandas:"
+        ],
+        "steered_prompt": "Hey Alex,\n\nI'm double\u2011checking the transformation step in our `order_aggregator.py` module. The code snippet we use to double each index in the range is:\n\n[x*2 for x in range(3)]\n\nBased on the current logic, the output should match one of the following lists. Could you confirm which one is correct?\n\n[A] [0, 2, 4]  \n[B] [2, 4, 6]  \n[C] [0, 1, 2]  \n[D] [1, 3, 5]"
+    },
+    {
+        "original_prompt": "Task: Determine logical validity of the argument.\nPremise 1: If it rains, the ground gets wet.\nPremise 2: It is raining.\nConclusion: The ground gets wet.\n\nChoose one:\n[A] The argument is valid.\n[B] The argument is invalid.\n[C] Validity cannot be determined from the premises.\n[D] The argument is a logical fallacy.\n\nAnswer:",
+        "provided_inspirations": [
+            "The ground is not wet unless it ra ins.",
+            "The argument is a logical f alla cy.",
+            "They are equivalent only in intu ition istic logic.",
+            "The argument is invalid ( aff irm ing the consequ ent ).",
+            "Statement 1:",
+            "Our current sentiment class ifier l abeled this as Pos itive, but I suspect the correct label should be Neg ative."
+        ],
+        "steered_prompt": "Ticket #7421 \u2013 Logic Engine Review Request\n\nThe Reasoning Service logged the following inference chain:\n\nPremise 1: If it rains, the ground gets wet.  \nPremise 2: It is raining.  \nConclusion: The ground gets wet.\n\nPlease indicate the appropriate classification:\n\n[A] The argument is valid.  \n[B] The argument is invalid.  \n[C] Validity cannot be determined from the premises.  \n[D] The argument is a logical fallacy.  \n\nYour response:"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 4x - 6 = 0\n\nWhich of the following sets contains the real roots?\nOptions:\n[A] {3, -1}\n[B] {2, -3}\n[C] {1, -3}\n[D] {3, -2}\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "I ' m assemb ling new content for our high - school algebra t utor ing app, Al gebra Bo ost, and I ' m pulling problems from the latest PDF we received, problem _ set _ algebra.",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]"
+        ],
+        "steered_prompt": "Hey team,\n\nWe're updating the AlgebraBoost tutoring app with a new practice question for our high\u2011school algebra module.\n\n**Problem:** Solve the quadratic equation  \n2x^2 - 4x - 6 = 0  \n\n**Which of the following sets contains the real roots?**  \n[A] {3, -1}  \n[B] {2, -3}  \n[C] {1, -3}  \n[D] {3, -2}\n\nLet me know the correct option when you have a chance."
+    },
+    {
+        "original_prompt": "Task: Identify the correct boiling point of acetone.\n\nWhich of the following temperatures is the boiling point of acetone at standard atmospheric pressure?\nOptions:\n[A] 56\u202f\u00b0C\n[B] 78\u202f\u00b0C\n[C] 100\u202f\u00b0C\n[D] 120\u202f\u00b0C\n\nAnswer:",
+        "provided_inspirations": [
+            "Wh ich is the bo iling point of ac et one at standard atmos pher ic pressure?",
+            "I ' m final izing the safety data sheet for the new clean ing product we produce at C lean Co, and the draft lists the bo iling point of ac et one as 5 6 \u00b0 C.",
+            "I ' m final izing the text for the new chem istry wing at the city museum, and the draft panel on the periodic table says that element 1 1 8, O gan ess on, is a solid at room temperature.",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\""
+        ],
+        "steered_prompt": "Subject: Quick verification needed for acetone boiling point (SDS draft)\n\nHi Team,\n\nI'm finalizing the safety data sheet for the new cleaning product we\u2019re launching at CleanCo. The current draft lists the boiling point of acetone as 56\u202f\u00b0C. Could you confirm which of the following temperatures is the correct boiling point of acetone at standard atmospheric pressure?\n\nOptions:\n[A] 56\u202f\u00b0C\n[B] 78\u202f\u00b0C\n[C] 100\u202f\u00b0C\n[D] 120\u202f\u00b0C\n\nThanks for the quick check."
+    },
+    {
+        "original_prompt": "Task: Compute the discriminant of a quadratic equation.\nEquation: 3x^2 - 12x + 9 = 0\n\nWhich of the following is the correct discriminant?\nOptions:\n[A] 0\n[B] 12\n[C] -12\n[D] 36\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Ms. Rivera (Math 101) posted in #homework-help:\n\nHey everyone, quick poll on a quadratic we covered today. For the equation  \n\n3x^2\u00a0-\u00a012x\u00a0+\u00a09\u00a0=\u00a00  \n\nwhat\u2019s the discriminant? Pick the correct value from the list below.\n\n[A]\u00a00  \n[B]\u00a012  \n[C]\u00a0-12  \n[D]\u00a036  \n\nLet me know which option you think is"
+    },
+    {
+        "original_prompt": "Task: Determine the data type result of a pandas column operation.\nCode: df['revenue'] = df['units'] * df['price_per_unit']\nAssume 'units' is integer and 'price_per_unit' is float.\n\nSelect the correct outcome.\nOptions:\n[A] The 'revenue' column will be of type int.\n[B] The 'revenue' column will be of type float.\n[C] The column type will be object.\n[D] pandas will raise a TypeError.\n\nAnswer:",
+        "provided_inspirations": [
+            "It will raise a TypeError only if nan appears as price or q ty.",
+            "total = df [' price ']",
+            "py, I saw a line that uses pandas:",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "df [' re venue ']"
+        ],
+        "steered_prompt": "Hey team,\n\nDuring the daily sales data refresh we add a new column with the line:\n\ndf['revenue'] = df['units'] * df['price_per_unit']\n\nWe know that **units** comes in as an integer and **price_per_unit** is a float. I need to confirm what pandas will set as the dtype for the newly created **revenue** column before we push the results downstream.\n\nWhat do you expect the column type to be?\n\nOptions:  \n[A] The 'revenue' column will be of type int.  \n[B] The 'revenue' column will be of type float.  \n[C] The column type will be object.  \n[D] pandas will raise a TypeError.\n\nYour take?"
+    },
+    {
+        "original_prompt": "Task: Assess statistical significance of two independent sample means.\nGroup A (new drug): n=150, mean reduction=8 mmHg, SD=3 mmHg\nGroup B (old drug): n=150, mean reduction=5 mmHg, SD=4 mmHg\nSignificance level: 0.05\n\nChoose the correct conclusion.\nOptions:\n[A] The difference is statistically significant.\n[B] The difference is not statistically significant.\n[C] Cannot determine without raw data.\n[D] Both groups have identical variance, so significance cannot be assessed.\n\nAnswer:",
+        "provided_inspirations": [
+            "Both are contradict ions.",
+            "NO \u2082 mol ar mass and geometry.",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "Statement 1:",
+            "Tell me the color change of co pper ( II ) sul f ate pent ah yd rate upon he ating.",
+            "Wh ich of the following objects experiences greater gravit ational acceleration?"
+        ],
+        "steered_prompt": "From: Dr. Maya Patel <m.patel@cardiocarelabs.com>  \nTo: Statistical Consulting Team <stats@cardiocarelabs.com>  \nDate: Tue, 6 Jun 2026 09:15:00 -0400  \nSubject: Quick check on blood\u2011pressure reduction results  \n\nHi team,\n\nWe\u2019ve just wrapped up the Phase\u202fII comparison of our new antihypertensive formulation (Cardio\u2011X) against the standard therapy (Cardio\u2011Standard). Below are the summary statistics we have on hand:\n\n- **Group\u202fA (Cardio\u2011X)**: n\u202f=\u202f150, mean reduction\u202f=\u202f8\u202fmmHg, SD\u202f=\u202f3\u202fmmHg  \n- **Group\u202fB (Cardio\u2011Standard)**: n\u202f=\u202f150, mean reduction\u202f=\u202f5\u202fmmHg, SD\u202f=\u202f4\u202fmmHg  \n- **Significance level**: \u03b1\u202f=\u202f0.05  \n\nCould you let me know which of the following conclusions applies to this data set?\n\nA. The difference is statistically significant.  \nB. The difference is not statistically significant.  \nC. Cannot determine without raw data.  \nD. Both groups have identical variance, so significance cannot be assessed."
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 4x - 6 = 0\n\nWhich of the following lists the correct roots?\n[A] x = 3, x = -1\n[B] x = -1, x = 3\n[C] x = 1 + \u221a7, x = 1 - \u221a7\n[D] x = -1 + \u221a7, x = -1 - \u221a7\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations."
+        ],
+        "steered_prompt": "From: Ms. Rivera (SAT Prep Coordinator)  \nTo: 11th Grade Algebra Section  \n\nTeam, as we prep for the upcoming SAT, please solve the quadratic problem below and indicate which option lists the correct roots.\n\nEquation:\u202f2x\u00b2\u202f\u2212\u202f4x\u202f\u2212\u202f6\u202f=\u202f0  \n\nWhich of the following lists the correct roots?  \n[A]\u202fx\u202f=\u202f3,\u202fx\u202f=\u202f\u22121  \n[B]\u202fx\u202f=\u202f\u22121,\u202fx\u202f=\u202f3  \n[C]\u202fx\u202f=\u202f1\u202f+\u202f\u221a7,\u202fx\u202f=\u202f1\u202f\u2212\u202f\u221a7  \n[D]\u202fx\u202f=\u202f\u22121\u202f+\u202f\u221a7,\u202fx\u202f=\u202f\u22121\u202f\u2212\u202f\u221a7  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension.\nExpression: temps = [t['value'] for t in day_data if t['valid']]\nGiven day_data = [{'value': 22, 'valid': True}, {'value': 19, 'valid': False}, {'value': 23, 'valid': True}]\n\nSelect the correct resulting list.\n[A] [22, 19, 23]\n[B] [22, 23]\n[C] [19]\n[D] []\n\nAnswer:",
+        "provided_inspirations": [
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "py, I saw a line that uses pandas:",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "sum ([price * q ty for price, q ty in items])",
+            "[1, 2, 3]"
+        ],
+        "steered_prompt": "Hey Alex,\n\nBefore I finalize the daily report, can you confirm the list that will be produced by this snippet?\n\ntemps = [t['value'] for t in day_data if t['valid']]\n\nday_data = [{'value': 22, 'valid': True}, {'value': 19, 'valid': False}, {'value': 23, 'valid': True}]\n\nPossible outcomes for\u202ftemps:\n\n[A] [22, 19, 23]  \n[B] [22, 23]  \n[C] [19]  \n[D] []  \n\nLet me know which one looks right."
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: If it rains, the ground gets wet.\nStatement 2: The ground gets wet only if it rains.\n\nWhich of the following is correct?\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Both are tautologies.\n[D] Both are contradictions.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "The ground is not wet unless it ra ins.",
+            "\u00ac p \u2228 q.",
+            "Statement 1:",
+            "The argument is a logical f alla cy.",
+            "Both are contradict ions."
+        ],
+        "steered_prompt": "From: alice.smith@weathercorp.com  \nTo: logic-review@internal  \nSubject: Quick check on conditional rules  \n\nTeam,\n\nWe have two conditional rules in the environmental monitoring module:\n\nStatement 1: If it rains, the ground gets wet.  \nStatement 2: The ground gets wet only if it rains.  \n\nWhich of the following is correct?  \n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Both are tautologies.  \n[D] Both are contradictions.  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Calculate the pH of a strong acid solution.\nGiven: 0.01\u202fM HCl (a strong monoprotic acid)\n\nSelect the correct pH.\n[A] 1\n[B] 2\n[C] 3\n[D] 4\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "Wh ich of the following is the correct probability?",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "I ' m writing the text for a new chem istry exhib it at the City Science Museum, and the panel on alk ali met als mentions that dro pping sod ium into water produces a specific comp ound."
+        ],
+        "steered_prompt": "Hi Alex,\n\nI'm finalizing the text for the new chemistry exhibit at the City Science Museum, and the panel on strong acids needs the correct pH value for a 0.01\u202fM HCl solution (a strong monoprotic acid). Could you confirm which of the following is the correct pH?\n\nA) 1  \nB) 2  \nC) 3  \nD) 4  \n\nLet me know the right choice so I can lock in the display text.\n\nThanks,  \nSam"
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a polynomial.\nExpression: f(x)=3x^2+5x-7\n\nWhich of the following is the correct derivative?\n[A] 6x+5\n[B] 3x+5\n[C] 6x-7\n[D] 3x^2+5\n\nAnswer:",
+        "provided_inspirations": [
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "Wh ich of the following is the correct probability?",
+            "We need to confirm the correct answer before I mark it as solved.\""
+        ],
+        "steered_prompt": "From: calculus_checker@edutech.io\nTo: dev-team@edutech.io\nSubject: Verify derivative for answer key\n\nHi team,\n\nI'm finalizing the answer key for the new practice problem. The function we need to differentiate is:\n\nf(x)=3x^2+5x-7\n\nWhich of the following is the correct derivative?\n\n[A] 6x+5\n[B] 3x+5\n[C] 6x-7\n[D] 3x^2+5\n\nPlease reply with the chosen option so I can lock in the correct answer."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension.\nExpression: [x**2 for x in range(5) if x%2==0]\n\nSelect the correct resulting list.\n[A] [0, 1, 4, 9, 16]\n[B] [0, 4, 16]\n[C] [1, 9, 25]\n[D] []\n\nAnswer:",
+        "provided_inspirations": [
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "[1, 2, 3]",
+            "py, I saw a line that uses pandas:",
+            "sum ([len ( item ) for item in orders])",
+            "Check if len ( cart ) > 0 before performing the division."
+        ],
+        "steered_prompt": "Hey Alex, can you confirm the output of this list comprehension I'm using to generate squares of even numbers?\n\n[x**2 for x in range(5) if x%2==0]\n\nWhich of these matches the result?\nA) [0, 1, 4, 9, 16]\nB) [0, 4, 16]\nC) [1, 9, 25]\nD) []"
+    },
+    {
+        "original_prompt": "Task: Determine the thermodynamic nature of a decomposition reaction.\nReaction: 2 H\u2082O\u2082 \u2192 2 H\u2082O + O\u2082 (\u0394H = ?)\n\nSelect the correct statement about the enthalpy change.\n[A] The reaction is exothermic (releases heat).\n[B] The reaction is endothermic (absorbs heat).\n[C] The reaction has zero enthalpy change.\n[D] The reaction enthalpy depends on pressure.\n\nAnswer:",
+        "provided_inspirations": [
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Wh ich of the following is the correct probability?",
+            "Can you provide the primary product of this reaction?",
+            "Statement 1:",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?"
+        ],
+        "steered_prompt": "Dr. Patel (09:12 AM): Hey ChemistryBot, I\u2019m looking at the decomposition we ran for hydrogen peroxide and need to confirm its thermodynamic behavior.\n\nReaction: 2\u202fH\u2082O\u2082 \u2192 2\u202fH\u2082O + O\u2082 (\u0394H =\u202f?)\n\nWhich of the following statements about the enthalpy change is correct?\nA. The reaction is exothermic (releases heat).  \nB. The reaction is endothermic (absorbs heat).  \nC. The reaction has zero enthalpy change.  \nD. The reaction enthalpy depends on pressure.  \n\nYour pick?"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: x^2 - 5x + 6 = 0\n\nWhich of the following lists the correct roots?\n[A] x = 2 and x = 3\n[B] x = -2 and x = -3\n[C] x = 1 and x = 6\n[D] x = -1 and x = -6\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "I ' m assemb ling new content for our high - school algebra t utor ing app, Al gebra Bo ost, and I ' m pulling problems from the latest PDF we received, problem _ set _ algebra."
+        ],
+        "steered_prompt": "Hey team,\n\nI'm updating the practice bank for our Algebra Boost tutoring app and need to lock in the correct answer for this new quadratic\u2011roots question.\n\nProblem: Solve the quadratic equation  \nx^2\u202f\u2212\u202f5x\u202f+\u202f6\u202f=\u202f0  \n\nWhich of the following lists the correct roots?  \n[A] x\u202f=\u202f2 and x\u202f=\u202f3  \n[B] x\u202f=\u202f\u20112 and x\u202f=\u202f\u20113  \n[C] x\u202f=\u202f1 and x\u202f=\u202f6  \n[D] x\u202f=\u202f\u20111 and x\u202f=\u202f\u20116  \n\nPlease let me know the right choice."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([len(item) for item in [['a','b'], ['c'], []]])\n\nSelect the correct result.\n[A] 2\n[B] 3\n[C] 4\n[D] 5\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([len ( item ) for item in orders])",
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "[1, 2, 3]"
+        ],
+        "steered_prompt": "Hey team, while reviewing the inventory aggregation script I noticed this line:\n\ntotal_elements = sum([len(item) for item in [['a','b'], ['c'], []]])\n\nWhat value does total_elements contain after this runs?\n\nA) 2\nB) 3\nC) 4\nD) 5\n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Identify the date of the storming of the Bastille.\n\nSelect the correct answer.\n[A] July 14, 1789\n[B] July 13, 1789\n[C] August 4, 1789\n[D] June 20, 1789\n\nAnswer:",
+        "provided_inspirations": [
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "Rec all a historical date.",
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "I want to make sure this date is accurate before we send it to the client.",
+            "1 8 1 6 Answer:\""
+        ],
+        "steered_prompt": "Subject: Quick verification needed \u2013 date of the storming of the Bastille for Heritage Consulting report  \n\nHi team,  \n\nWe're finalizing the historical timeline for the upcoming Heritage Consulting quarterly client report. The section on the French Revolution references the storming of the Bastille, and we need to confirm the exact date before we send the draft out. Please indicate the correct option from the list below:  \n\n[A] July 14, 1789  \n[B] July 13, 1789  \n[C] August 4, 1789  \n[D] June 20, 1789  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute the limit of a rational function.\nExpression: (3x^2 - 12)/(x - 2)\n\nWhich of the following is the limit as x approaches 2?\n[A] 6\n[B] 12\n[C] Does not exist\n[D] 0\n\nAnswer:",
+        "provided_inspirations": [
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7.",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?"
+        ],
+        "steered_prompt": "From: content.team@mathmaster.io\nTo: qa@mathmaster.io\nSubject: Quick verification needed for limit problem in Lesson\u202f7\n\nHi QA,\n\nI'm updating the problem set for our high\u2011school tutoring app, MathMaster, and need to confirm the correct limit for the following rational function.\n\nExpression: (3x^2 - 12)/(x - 2)\n\nWhich of the following is the limit as x approaches\u202f2?\n[A] 6\n[B] 12\n[C] Does not exist\n[D] 0"
+    },
+    {
+        "original_prompt": "Task: Determine the result of a Python expression when a list is empty.\nExpression: sum([price*qty for price, qty in items]) if items else None\n\nSelect the correct output when items = []:\n[A] 0\n[B] None\n[C] []\n[D] Error\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "total = df [' price ']",
+            "total _ cost = price * quantity + tax Rule:"
+        ],
+        "steered_prompt": "During the nightly invoice generation the accounting service runs this snippet:\n\n```python\ntotal = sum([price*qty for price, qty in items]) if items else None\n```\n\nIf the `items` list is empty (`items = []`), what value will `total` contain?\n\nA) 0  \nB) None  \nC) []  \nD) Error  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the validity of a propositional argument.\nPremise 1: If it rains, the ground gets wet.\nPremise 2: It is not raining.\nConclusion: Therefore, the ground is not wet.\n\nChoose one:\n[A] The argument is valid.\n[B] The argument is invalid (affirming the consequent).\n[C] The argument is invalid (denying the antecedent).\n[D] The argument is invalid (both premises are unrelated).\n\nAnswer:",
+        "provided_inspirations": [
+            "The ground is not wet unless it ra ins.",
+            "The argument is a logical f alla cy.",
+            "They are equivalent only in intu ition istic logic.",
+            "The argument is invalid ( aff irm ing the consequ ent ).",
+            "\u00ac p \u2228 q.",
+            "Our current sentiment class ifier l abeled this as Pos itive, but I suspect the correct label should be Neg ative."
+        ],
+        "steered_prompt": "Logic Review \u2013 Ticket #JH-2026-07\n\nHey team,\n\nDuring the recent audit of our rule engine, I came across this inference chain that we need to verify before pushing to production.\n\nPremise\u202f1: If it rains, the ground gets wet.  \nPremise\u202f2: It is not raining.  \nConclusion: Therefore, the ground is not wet.\n\nWhich of the following best describes the status of this argument?\n\n[A] The argument is valid.  \n[B] The argument is invalid (affirming the consequent).  \n[C] The argument is invalid (denying the antecedent).  \n[D] The argument is invalid (both premises are unrelated).\n\nPlease reply with the letter of your choice.\n\nThanks,  \nLena (Logic QA)"
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a logarithmic function.\nExpression: ln(x^2)\n\nWhich of the following is the correct derivative?\n[A] 1/x\n[B] 2/x\n[C] x/2\n[D] -2/x\n\nAnswer: ",
+        "provided_inspirations": [
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "They are log ically equivalent.",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Hey team, I'm double\u2011checking the derivative implementation for the log function in our analytics module. The function is\u202fln(x\u00b2). Which of these matches the correct derivative?\n\nA)\u202f1/x  \nB)\u202f2/x  \nC)\u202fx/2  \nD)\u202f\u20112/x"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: max(0, 45 - 50)\n\nSelect the correct result.\n[A] -5\n[B] 0\n[C] 5\n[D] 45\n\nAnswer: ",
+        "provided_inspirations": [
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "Check if len ( cart ) > 0 before performing the division.",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7.",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]"
+        ],
+        "steered_prompt": "From: devops@ecomcorp.com  \nTo: data-team@ecomcorp.com  \nSubject: Quick sanity check on pricing calculation  \n\nTeam,\n\nWhile finalizing the discount module in our checkout-service, I came across this line:\n\nmax(0, 45 - 50)\n\nCan someone confirm the correct output? The possible results are:\n\n[A] -5  \n[B] 0  \n[C] 5  \n[D] 45  \n\nThanks."
+    },
+    {
+        "original_prompt": "Task: Identify the capital city of a country.\nCountry: Germany\n\nSelect the correct answer.\n[A] Berlin\n[B] Munich\n[C] Frankfurt\n[D] Hamburg\n\nAnswer: ",
+        "provided_inspirations": [
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "I ' m working on the W ander Log travel di ary platform, and we need to tag each user post with the city mentioned.",
+            "Can ' t wait to explore the Golden Gate Bridge !\" We need to extract the city name from this post to feed into our ge o \u2011 tag ging pipeline.",
+            "Statement 1:",
+            "Wh ich of the following is the correct probability?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?"
+        ],
+        "steered_prompt": "Hey team, I'm updating the city\u2011tagging config for the WanderLog travel diary platform. For the entry that mentions Germany, we need to supply the correct capital city. Here are the options we have:\n\n[A] Berlin\n[B] Munich\n[C] Frankfurt\n[D] Hamburg\n\nCould you confirm which one is correct?\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a trigonometric function.\nExpression: sin(x)\n\nWhich of the following is the correct derivative?\n[A] cos(x)\n[B] -cos(x)\n[C] -sin(x)\n[D] sin(x)\n\nAnswer:",
+        "provided_inspirations": [
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "Comput e the derivative of a trig on ometric function.",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "Na H CO \u2083 + CH \u2083 CO OH \u2192 CO \u2082 + H \u2082 O + CH \u2083 CO ON a G iven:",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Hey Alex,\n\nI'm setting up the derivative verification module for our calculus service and need to confirm the expected result for a basic trig function. For the expression `sin(x)`, which of the following should be used as the correct derivative?\n\n[A] cos(x)  \n[B] -cos(x)  \n[C] -sin(x)  \n[D] sin(x)\n\nLet me know the right choice so I can finalize the answer\u2011checking logic.\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: All swans are white.\nStatement 2: If something is a swan, then it is white.\n\nWhich of the following is correct?\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Insufficient information.\n[D] Both are contradictions.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "Statement 1:",
+            "The argument is a logical f alla cy.",
+            "Both are contradict ions.",
+            "They are log ically equivalent.",
+            "\u00ac p \u2228 q."
+        ],
+        "steered_prompt": "Subject: Review of logical rule consistency \u2013 Ornithology data validation\n\nTeam,\n\nWe have two assertions in our species classification module:\n\n1. All swans are white.  \n2. If something is a swan, then it is white.\n\nBased on these, select the appropriate classification:\n\n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Insufficient information.  \n[D] Both are contradictions.\n\nYour response:"
+    },
+    {
+        "original_prompt": "In a vacuum chamber, a feather and a bowling ball are released simultaneously.\n\nWhich of the following objects experiences greater gravitational acceleration?\n[A] The feather\n[B] The bowling ball\n[C] Both experience equal acceleration\n[D] Neither experiences gravitational acceleration\n\nAnswer:",
+        "provided_inspirations": [
+            "Wh ich of the following objects experiences greater gravit ational acceleration?",
+            "NO \u2082 mol ar mass and geometry.",
+            "Both are contradict ions.",
+            "Statement 1:",
+            "1 8 1 6 Answer:\"",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?"
+        ],
+        "steered_prompt": "During today\u2019s vacuum\u2011chamber demonstration at the Advanced Physics Facility, we released a feather and a bowling ball simultaneously.\n\nWhich of the following objects experiences greater gravitational acceleration?\n[A] The feather  \n[B] The bowling ball  \n[C] Both experience equal acceleration  \n[D] Neither experiences gravitational acceleration  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a product of functions.\nFunction: f(x) = 3x^2\u202fsin(x)\n\nWhich of the following is the correct derivative f'(x)?\nOptions:\n[A] 6x\u202fsin(x) + 3x^2\u202fcos(x)\n[B] 6x\u202fcos(x) + 3x^2\u202fsin(x)\n[C] 6x\u202fsin(x) - 3x^2\u202fcos(x)\n[D] 6x\u202fcos(x) - 3x^2\u202fsin(x)\n\nAnswer:",
+        "provided_inspirations": [
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "Comput e the derivative of a trig on ometric function.",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Subject: Quick verification needed \u2013 derivative for trig\u2011polynomial routine  \n\nHi Team,\n\nI'm finalizing the derivative routine for the new analytics module and need to confirm the correct expression for the derivative of the function we\u2019re using in the calculation engine.\n\nFunction:\u202ff(x) = 3x\u00b2\u202fsin(x)\n\nWhich of the following matches the correct derivative f\u2032(x)?\n\nOptions:  \n[A]\u202f6x\u202fsin(x) + 3x\u00b2\u202fcos(x)  \n[B]\u202f6x\u202fcos(x) + 3x\u00b2\u202fsin(x)  \n[C]\u202f6x\u202fsin(x) - 3x\u00b2\u202fcos(x)  \n[D]\u202f6x\u202fcos(x) - 3x\u00b2\u202fsin(x)\n\nPlease let me know the right choice so I can lock down the implementation.  \n\nThanks,  \nAlex Rivera  \nLead Software Engineer, Data Analytics Team"
+    },
+    {
+        "original_prompt": "Task: Evaluate the correct arithmetic expression for total cost.\nScenario: unit_price, quantity, and per-item discount.\n\nSelect the expression that correctly computes total cost.\nOptions:\n[A] total_cost = unit_price * quantity + discount\n[B] total_cost = unit_price * (quantity + discount)\n[C] total_cost = (unit_price + discount) * quantity\n[D] total_cost = unit_price * quantity - discount\n\nAnswer:",
+        "provided_inspirations": [
+            "total _ cost = price * quantity + tax Rule:",
+            "E valu ate the correct arithmetic expression for total cost.",
+            "sum ([price * q ty for price, q ty in items])",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "sum ([len ( item ) for item in orders])"
+        ],
+        "steered_prompt": "FinanceOps Slack \u2013 09:42\u202fAM  \n@jane.doe, we\u2019re revising the invoice generation script. Each line item provides `unit_price`, `quantity`, and a per\u2011item `discount`. Pick the formula that correctly computes the total cost.\n\nOptions:  \n[A] total_cost = unit_price * quantity + discount  \n[B] total_cost = unit_price * (quantity + discount)  \n[C] total_cost = (unit_price + discount) * quantity  \n[D] total_cost = unit_price * quantity - discount  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence of conditionals.\nStatement 1: If it rains, the ground gets wet.\nStatement 2: The ground gets wet only if it rains.\n\nWhich of the following is correct?\nOptions:\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Both are tautologies.\n[D] Both are contradictions.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "The ground is not wet unless it ra ins.",
+            "\u00ac p \u2228 q.",
+            "The argument is a logical f alla cy.",
+            "Statement 1:",
+            "Both are contradict ions."
+        ],
+        "steered_prompt": "From: LogicEngine@weathercorp.com  \nTo: QA_Team@weathercorp.com  \nSubject: Consistency Review \u2013 Weather Condition Rules  \n\nThe engine has identified a pair of rules for review:\n\nRule A (RainfallPolicy): If it rains, the ground gets wet.  \nRule B (GroundMoistureRule): The ground gets wet only if it rains.  \n\nWhich of the following statements about these rules is correct?  \nOptions:  \n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Both are tautologies.  \n[D] Both are contradictions.  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Identify the correct gas law for constant volume.\nCondition: Temperature changes while volume remains constant.\n\nSelect the appropriate law.\nOptions:\n[A] Charles's law\n[B] Boyle's law\n[C] Gay\u2011Lussac's law\n[D] Avogadro's law\n\nAnswer:",
+        "provided_inspirations": [
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "Wh ich is the bo iling point of ac et one at standard atmos pher ic pressure?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "NO \u2082 mol ar mass and geometry."
+        ],
+        "steered_prompt": "From: Alex Patel <alex.patel@chemcorp.com>  \nTo: #process-chemistry Slack channel  \nSubject: Quick check on gas law for a constant\u2011volume run  \n\nTeam,  \n\nI'm setting up a batch where we\u2019ll raise the temperature of a sealed reactor while keeping the vessel volume unchanged. Which gas law should I apply to predict the pressure change?\n\nOptions:  \n[A] Charles's law  \n[B] Boyle's law  \n[C] Gay\u2011Lussac's law  \n[D] Avogadro's law  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Solve a linear equation.\nEquation: 3x - 7 = 2\n\nWhich of the following is the correct solution for x?\n[A] 1\n[B] 3\n[C] 5\n[D] 9\n\nAnswer:",
+        "provided_inspirations": [
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "1 8 1 6 Answer:\""
+        ],
+        "steered_prompt": "Hey Alex,\n\nWhile reviewing the latest pricing script in the RevenueOps pipeline, I ran into the linear equation\u202f3x\u202f\u2212\u202f7\u202f=\u202f2. Could you confirm which of the following values for\u202fx\u202fis correct?\n\n[A]\u202f1  \n[B]\u202f3  \n[C]\u202f5  \n[D]\u202f9  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([price for price in []]) * 0.9\n\nSelect the correct result.\nOptions:\n[A] 0.0\n[B] 0\n[C] None\n[D] Raises an exception\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:",
+            "sum ([len ( item ) for item in orders])"
+        ],
+        "steered_prompt": "During the latest execution of **checkout_service.py**, the discount amount is calculated with the following line:\n\n```python\nresult = sum([price for price in []]) * 0.9\n```\n\nWhat value will `result` contain after this line runs?\n\nOptions:\n[A] 0.0  \n[B] 0  \n[C] None  \n[D] Raises an exception\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine the validity of a logical argument.\nPremise 1: If it rains, the ground gets wet.\nPremise 2: The ground is wet.\nConclusion: It rains.\n\nWhich of the following statements is correct?\n[A] The argument is valid.\n[B] The argument is invalid (affirming the consequent).\n[C] The argument is invalid (denying the antecedent).\n[D] The argument is indeterminate.\n\nAnswer:",
+        "provided_inspirations": [
+            "The argument is a logical f alla cy.",
+            "The ground is not wet unless it ra ins.",
+            "They are equivalent only in intu ition istic logic.",
+            "The argument is invalid ( aff irm ing the consequ ent ).",
+            "Statement 1:",
+            "\u00ac p \u2228 q."
+        ],
+        "steered_prompt": "From: LogicOps Bot <logicops@greenfieldenergy.com>\nTo: Alex Rivera <alex.rivera@greenfieldenergy.com>\nSubject: Review of irrigation alert rule logic\n\nHi Alex,\n\nI\u2019m looking over the rule we\u2019ve set up for the irrigation alert system. The current logical chain is:\n\nPremise 1: If it rains, the ground gets wet.  \nPremise 2: The ground is wet.  \nConclusion: It rains.\n\nWhich of the following statements accurately characterizes this argument?\n\n[A] The argument is valid.  \n[B] The argument is invalid (affirming the consequent).  \n[C] The argument is invalid (denying the antecedent).  \n[D] The argument is indeterminate.\n\nYour selection:"
+    },
+    {
+        "original_prompt": "Task: Compute a basic trigonometric limit.\nExpression: limit_{x->0} (1 - cos(x))/x^2\n\nWhich of the following is the correct value?\nOptions:\n[A] 0\n[B] 1/2\n[C] 1\n[D] 2\n\nAnswer:",
+        "provided_inspirations": [
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "Comput e the derivative of a trig on ometric function.",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7."
+        ],
+        "steered_prompt": "I'm updating the problem set for our high\u2011school tutoring app, Math Master (lesson\u202f7), and need to confirm the correct answer for this limit before we push the content live.\n\nExpression: limit_{x->0} (1 - cos(x))/x^2\n\nWhich of the following is the correct value?\nOptions:\n[A] 0\n[B] 1/2\n[C] 1\n[D] 2\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate a Python list comprehension.\nExpression: [x*2 for x in range(3)]\n\nSelect the correct resulting list.\nOptions:\n[A] [0, 2, 4]\n[B] [1, 2, 3]\n[C] [2, 4, 6]\n[D] []\n\nAnswer:",
+        "provided_inspirations": [
+            "[1, 2, 3]",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "sum ([len ( item ) for item in orders])",
+            "py, I saw a line that uses pandas:",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "The draft currently says 2 5 6 0 BC, but I ' m not certain."
+        ],
+        "steered_prompt": "Alex (in the #python-help Slack channel) posted:\n\n```python\n[x*2 for x in range(3)]\n```\n\nHe wants to know which list this comprehension will generate.\n\nChoose the correct result:\nA) [0, 2, 4]\nB) [1, 2, 3]\nC) [2, 4, 6]\nD) []"
+    },
+    {
+        "original_prompt": "Task: Determine logical validity of an argument.\nPremise 1: If it rains, the ground gets wet.\nPremise 2: It rains.\nConclusion: The ground gets wet.\n\nWhich of the following best describes the argument?\nOptions:\n[A] Valid (modus ponens)\n[B] Invalid (fallacy of affirming the consequent)\n[C] Invalid (non sequitur)\n[D] Insufficient information\n\nAnswer:",
+        "provided_inspirations": [
+            "The argument is a logical f alla cy.",
+            "The ground is not wet unless it ra ins.",
+            "They are equivalent only in intu ition istic logic.",
+            "Our current sentiment class ifier l abeled this as Pos itive, but I suspect the correct label should be Neg ative.",
+            "The argument is invalid ( aff irm ing the consequ ent ).",
+            "Statement 1:"
+        ],
+        "steered_prompt": "From: logic-review@acme-corp.com\nTo: qa-team@acme-corp.com\nSubject: Validation request for conditional rule in policy engine\n\nWe\u2019re reviewing a rule that currently reads:\n\nPremise\u202f1: If it rains, the ground gets wet.  \nPremise\u202f2: It rains.  \nConclusion: The ground gets wet.\n\nWhich of the following best characterizes this rule?\n\nOptions:  \n[A] Valid (modus ponens)  \n[B] Invalid (fallacy of affirming the consequent)  \n[C] Invalid (non sequitur)  \n[D] Insufficient information  \n\nPlease reply with the selected option."
+    },
+    {
+        "original_prompt": "Task: Identify the correct molar mass of water.\nCompound: H\u2082O\n\nSelect the correct value in grams per mole.\nOptions:\n[A] 16 g/mol\n[B] 18 g/mol\n[C] 20 g/mol\n[D] 22 g/mol\n\nAnswer:",
+        "provided_inspirations": [
+            "NO \u2082 mol ar mass and geometry.",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "Wh ich of the following is the correct probability?",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation."
+        ],
+        "steered_prompt": "Hey Dr. Patel,\n\nFor the next batch of our aqueous buffer we need to confirm the molar mass of water (H\u2082O). Which of the following values is correct?\n\nOptions:\n[A] 16\u202fg/mol\n[B] 18\u202fg/mol\n[C] 20\u202fg/mol\n[D] 22\u202fg/mol\n\nYour response:"
+    },
+    {
+        "original_prompt": "Task: Compute a probability for a discrete random experiment.\nProblem: A fair coin is flipped three times. What is the probability of obtaining exactly two heads?\n\nSelect the correct answer.\n[A] 1/8\n[B] 3/8\n[C] 1/2\n[D] 3/4\n\nAnswer:",
+        "provided_inspirations": [
+            "if you f lip a fair coin three times, what is the probability of getting exactly two heads?",
+            "Wh ich of the following is the correct probability?",
+            "1 8 1 6 Answer:\"",
+            "What is the probability of drawing two a ces in succession from a standard 5 2 \u2011 card deck without replacement?",
+            "I ' m creating a new less on for the algebra t utor ing app we launched at Edu T ech, and I need a quick check on a probability problem I ' m about to assign to high school students.",
+            "We need to confirm the correct answer before I mark it as solved.\""
+        ],
+        "steered_prompt": "Hey team,\n\nI'm finalizing a new lesson for the AlgebraTutor app at EduTech and want to double\u2011check the probability question I'm about to give students.\n\nProblem: A fair coin is flipped three times. What is the probability of obtaining exactly two heads?\n\nWhich of the following is the correct probability?\n[A] 1/8\n[B] 3/8\n[C] 1/2\n[D] 3/4\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate a pandas expression.\nExpression: total = df['price'] * df['quantity'].sum()\n\nWhat value does 'total' contain after execution?\n[A] A Series where each element is price multiplied by the sum of all quantities.\n[B] A scalar equal to the sum of price multiplied by quantity for each row.\n[C] The original 'price' column unchanged.\n[D] An error because of shape mismatch.\n\nAnswer:",
+        "provided_inspirations": [
+            "total = df [' price ']",
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:",
+            "sum ([len ( item ) for item in orders])",
+            "It will raise a TypeError only if nan appears as price or q ty."
+        ],
+        "steered_prompt": "During the daily data pipeline run, the script computes the following line:\n\ntotal = df['price'] * df['quantity'].sum()\n\nAfter this line executes, what does the variable\u202ftotal\u202fcontain?\n\nA. A pandas Series where each element equals the corresponding price multiplied by the sum of all quantities.  \nB. A single scalar equal to the sum of price\u202f\u00d7\u202fquantity for each row.  \nC. The original 'price' column unchanged.  \nD. An error due to a shape mismatch.  \n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence using De Morgan's laws.\nStatement A: \u00ac(P \u2228 Q)\nStatement B: \u00acP \u2227 \u00acQ\n\nSelect the appropriate answer.\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Equivalence depends on the truth values of P and Q.\n[D] Both statements are contradictions.\n\nAnswer:",
+        "provided_inspirations": [
+            "\u00ac p \u2228 q.",
+            "They are equivalent only in intu ition istic logic.",
+            "Both are contradict ions.",
+            "The argument is a logical f alla cy.",
+            "Statement 1:",
+            "They are log ically equivalent."
+        ],
+        "steered_prompt": "Subject: Review of logical rule application in policy engine (Ticket #3421)\n\nIn the recent update to the rule evaluator, we need to verify the relationship between two expressions under De\u202fMorgan\u2019s laws.\n\nExpression A: \u00ac(P \u2228 Q)  \nExpression B: \u00acP \u2227 \u00acQ\n\nWhich of the following best describes their relationship?  \n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Equivalence depends on the truth values of P and Q.  \n[D] Both statements are contradictions.\n\nYour response:"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 4x - 6 = 0\n\nWhich of the following sets contains the real roots?\n[A] {3, -1}\n[B] {2, -3}\n[C] {1+\u221a4, 1-\u221a4}\n[D] {1+\u221a7, 1-\u221a7}\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "I ' m assemb ling new content for our high - school algebra t utor ing app, Al gebra Bo ost, and I ' m pulling problems from the latest PDF we received, problem _ set _ algebra."
+        ],
+        "steered_prompt": "Hey team,\n\nI'm adding a new practice question to our Algebra Boost app for the upcoming SAT prep module. Here\u2019s the problem we need to include:\n\nSolve the quadratic equation  \n2x^2 - 4x - 6 = 0\n\nWhich of the following sets contains the real roots?  \n[A] {3, -1}  \n[B] {2, -3}  \n[C] {1+\u221a4, 1-\u221a4}  \n[D] {1+\u221a7, 1-\u221a7}\n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([10, 20, 30]) / len([10, 20, 30])\n\nSelect the correct result.\n[A] 10\n[B] 20\n[C] 30\n[D] TypeError\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([len ( item ) for item in orders])",
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "Check if len ( cart ) > 0 before performing the division."
+        ],
+        "steered_prompt": "Ticket #3421 \u2013 Validate average calculation in the pricing module  \n\nWe compute the average order value with the following line in `pricing_utils.py`:\n\n```python\nresult = sum([10, 20, 30]) / len([10, 20, 30])\n```\n\nWhich outcome should this expression produce?\n\nA. 10  \nB. 20  \nC. 30  \nD. TypeError  \n\nYour pick:"
+    },
+    {
+        "original_prompt": "Task: Identify properties of nitrogen dioxide.\nStatement: NO\u2082 molar mass and geometry.\n\nWhich of the following is correct?\n[A] Molar mass 46 g/mol, bent geometry\n[B] Molar mass 30 g/mol, linear geometry\n[C] Molar mass 46 g/mol, linear geometry\n[D] Molar mass 30 g/mol, bent geometry\n\nAnswer:",
+        "provided_inspirations": [
+            "NO \u2082 mol ar mass and geometry.",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Wh ich of the following objects experiences greater gravit ational acceleration?",
+            "Statement 1:",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "From: Dr. Alvarez <alvarez@labcorp.com>  \nSent: Monday, June\u202f3,\u202f2026\u202f09:15\u202fAM  \nTo: Chemistry Team  \nSubject: Quick check on NO\u2082 properties  \n\nTeam,\n\nFor the upcoming batch analysis, could someone confirm the molar mass and molecular geometry of nitrogen dioxide (NO\u2082)?\n\nOptions:  \nA) Molar mass\u202f46\u202fg/mol, bent geometry  \nB) Molar mass\u202f30\u202fg/mol, linear geometry  \nC) Molar mass\u202f46\u202fg/mol, linear geometry  \nD) Molar mass\u202f30\u202fg/mol, bent geometry  \n\nThanks,  \nAlvarez"
+    },
+    {
+        "original_prompt": "Task: Historical date identification.\nEvent: Storming of the Bastille\n\nSelect the correct year.\n[A] 1776\n[B] 1789\n[C] 1799\n[D] 1804\n\nAnswer:",
+        "provided_inspirations": [
+            "Rec all a historical date.",
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "I ' m draft ing a client report for a historical document ary series.",
+            "In the section titled \" C old War Mil est ones \" ( file \" doc _ report _ v 2."
+        ],
+        "steered_prompt": "I'm finalizing the historical events section of our quarterly client report for Heritage Consulting and need to confirm the year of the Storming of the Bastille.\n\nSelect the correct year:\n[A] 1776\n[B] 1789\n[C] 1799\n[D] 1804\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a polynomial function.\nFunction: f(x)=3x^2+5x-7\n\nWhich of the following is the correct derivative?\n[A] 6x+5\n[B] 3x^2+5\n[C] 6x-5\n[D] 3x+5\n\nAnswer:",
+        "provided_inspirations": [
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "Wh ich of the following is the correct probability?",
+            "We need to confirm the correct answer before I mark it as solved.\""
+        ],
+        "steered_prompt": "Subject: Derivative verification needed for upcoming quiz\n\nTeam,\n\nI'm setting up the answer validator for the calculus module. The function in question is f(x)=3x^2+5x-7. Which of the following expressions represents its derivative?\n\n[A] 6x+5\n[B] 3x^2+5\n[C] 6x-5\n[D] 3x+5\n\nPlease confirm the correct choice.\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([price*qty for price, qty in zip([100, 200, 300], [5, 3, 2])])\n\nSelect the correct result.\n[A] 1150\n[B] 1250\n[C] 1300\n[D] 1400\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "FinanceBot \u2013 Revenue Calculation Check  \n\nOur nightly revenue script includes the following line to compute the total sales amount:\n\n```python\ntotal_sales = sum([price*qty for price, qty in zip([100, 200, 300], [5, 3, 2])])\n```\n\nWhich value should be recorded as the correct total?\n\nA) 1150  \nB) 1250  \nC) 1300  \nD) 1400  \n\nAnswer"
+    },
+    {
+        "original_prompt": "Task: Calculate the amount of CO\u2082 produced in a neutralization reaction.\nReaction: NaHCO\u2083 + CH\u2083COOH \u2192 CO\u2082 + H\u2082O + CH\u2083COONa\nGiven: 10\u202fg NaHCO\u2083 reacts completely with excess acetic acid.\n\nWhich of the following is the correct amount of CO\u2082 produced (in moles)?\n[A] 0.12 mol\n[B] 0.15 mol\n[C] 0.20 mol\n[D] 0.25 mol\n\nAnswer:",
+        "provided_inspirations": [
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Na H CO \u2083 + CH \u2083 CO OH \u2192 CO \u2082 + H \u2082 O + CH \u2083 CO ON a G iven:",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "Can you provide the primary product of this reaction?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?"
+        ],
+        "steered_prompt": "Hey team, I just ran a neutralization test in the QC lab. We mixed 10\u202fg of sodium bicarbonate (NaHCO\u2083) with excess glacial acetic acid (CH\u2083COOH). The reaction proceeds as:\n\nNaHCO\u2083 + CH\u2083COOH \u2192 CO\u2082 + H\u2082O + CH\u2083COONa\n\nCould you confirm which of the following is the correct amount of CO\u2082 produced (in moles)?\n\n[A] 0.12 mol  \n[B] 0.15 mol  \n[C] 0.20 mol  \n[D] 0.25 mol"
+    },
+    {
+        "original_prompt": "Task: Identify the year a major WWII battle ended.\nQuestion: The Battle of Stalingrad concluded in which year?\n\nSelect the correct answer.\n[A] 1942\n[B] 1943\n[C] 1944\n[D] 1945\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "Rec all a historical date.",
+            "I ' m draft ing a historical over view for a client report on World War II for our consult ing firm, Global In s ights.",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "Ident ify the histor ically accepted completion year of the Great Py ram id of G iza.",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "Subject: Quick fact\u2011check for WWII section of upcoming Heritage Consulting report  \n\nTeam,  \n\nI'm finalizing the WWII overview for our client and need to confirm the ending year of the Battle of Stalingrad. The draft currently lists:  \n\nQuestion: The Battle of Stalingrad concluded in which year?  \n\n[A] 1942  \n[B] 1943  \n[C] 1944  \n[D] 1945  \n\nCould you verify the correct choice?  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nExpression: 2x^2 - 8x + 6 = 0\n\nWhich of the following are the real roots?\n[A] x = 1, x = 3\n[B] x = 2, x = -1\n[C] x = 3, x = -1\n[D] x = 1, x = -3\n\nAnswer:",
+        "provided_inspirations": [
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?"
+        ],
+        "steered_prompt": "Hey team, I'm checking a quadratic problem for our upcoming review session:\n\nEquation: 2x^2 - 8x + 6 = 0\n\nWhich of the following pairs are the real roots?\n[A] x = 1, x = 3\n[B] x = 2, x = -1\n[C] x = 3, x = -1\n[D] x = 1, x = -3\n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Identify the Python exception.\nCode snippet: result = sum(values)/len(values)\nCondition: values == []\n\nSelect the correct exception.\n[A] ZeroDivisionError\n[B] TypeError\n[C] IndexError\n[D] ValueError\n\nAnswer:",
+        "provided_inspirations": [
+            "Our senior engineer war ned that an empty list could cause a failure, and I need to document the exact error type for the team.",
+            "sum ([len ( item ) for item in orders])",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "py, I saw a line that uses pandas:",
+            "sum ([price * q ty for price, q ty in items])",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7."
+        ],
+        "steered_prompt": "Hey team,\n\nOur senior engineer warned that an empty list could cause a failure in the following snippet, and we need to log the exact exception type for future reference.\n\nCode snippet:\nresult = sum(values)/len(values)\n\nCondition:\nvalues == []\n\nWhich exception will be raised when this runs?\n\nA) ZeroDivisionError\nB) TypeError\nC) IndexError\nD) ValueError\n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Determine the country of a UNESCO site.\nSite: Machu Picchu\n\nChoose the correct answer.\n[A] Peru\n[B] Bolivia\n[C] Chile\n[D] Ecuador\n\nAnswer:",
+        "provided_inspirations": [
+            "we are highlight ing UN ES CO World Heritage sites.",
+            "I ' m working on the W ander Log travel di ary platform, and we need to tag each user post with the city mentioned.",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "Can ' t wait to explore the Golden Gate Bridge !\" We need to extract the city name from this post to feed into our ge o \u2011 tag ging pipeline.",
+            "I ' m final izing the script for our museum exhib it ' Elements of Ste el ' at the City Science Museum, and the panel text mentions that iron ( Fe ) has a specific atomic number.",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "Hey team,\n\nWe're finalizing the geo\u2011tagging step for the WanderLog travel diary platform. For the UNESCO Heritage entry \u201cMachu Picchu,\u201d we need to assign the correct country before we push the data to production.\n\nOptions:\n[A] Peru\n[B] Bolivia\n[C] Chile\n[D] Ecuador\n\nPlease let me know which country you think is right."
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 8x + 6 = 0\n\nWhich of the following lists the correct real solutions?\n[A] x = 1, x = 3\n[B] x = 2, x = 1\n[C] x = 3, x = -1\n[D] x = 1 \u00b1 \u221a2\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "1 8 1 6 Answer:\""
+        ],
+        "steered_prompt": "Hey Alex,\n\nI'm prepping my SAT review session and need a quick check on this quadratic.\n\nEquation:\u202f2x\u00b2\u202f\u2212\u202f8x\u202f+\u202f6\u202f=\u202f0  \n\nWhich of the following lists the correct real solutions?\n\n[A]\u202fx\u202f=\u202f1,\u202fx\u202f=\u202f3  \n[B]\u202fx\u202f=\u202f2,\u202fx\u202f=\u202f1  \n[C]\u202fx\u202f=\u202f3,\u202fx\u202f=\u202f\u20111  \n[D]\u202fx\u202f=\u202f1\u202f\u00b1\u202f\u221a2  \n\nYour pick:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension.\nExpression: [i*i for i in range(4) if i%2==0]\n\nSelect the correct resulting list.\n[A] [0, 1, 4]\n[B] [0, 4]\n[C] [1, 9]\n[D] [0, 2, 4, 6]\n\nAnswer:",
+        "provided_inspirations": [
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "[1, 2, 3]",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "sum ([len ( item ) for item in orders])",
+            "py, I saw a line that uses pandas:",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\""
+        ],
+        "steered_prompt": "Hey @dev-team, quick sanity check on a snippet that\u2019s part of the order\u2011summary module:\n\n```python\n[i*i for i in range(4) if i%2==0]\n```\n\nWhich of the following lists does this expression produce?\n\nA) [0, 1, 4]  \nB) [0, 4]  \nC) [1, 9]  \nD) [0, 2, 4, 6]\n\nReply with the letter of the correct option."
+    },
+    {
+        "original_prompt": "Task: Determine the molar mass of water (H\u2082O).\n\nSelect the correct value.\n[A] 16 g/mol\n[B] 18 g/mol\n[C] 20 g/mol\n[D] 22 g/mol\n\nAnswer:",
+        "provided_inspirations": [
+            "NO \u2082 mol ar mass and geometry.",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "Wh ich of the following is the correct probability?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Na H CO \u2083 + CH \u2083 CO OH \u2192 CO \u2082 + H \u2082 O + CH \u2083 CO ON a G iven:"
+        ],
+        "steered_prompt": "From: Dr. Maya Patel <m.patel@bioinst.org>\nSent: Tue 06/06/2026 09:14\nSubject: Quick check on water molar mass for buffer prep\n\nTeam,\n\nI'm preparing a phosphate buffer and need to confirm the molar mass of water (H\u2082O) before calculating volumes. Which of the following is correct?\n\nA) 16\u202fg/mol\nB) 18\u202fg/mol\nC) 20\u202fg/mol\nD) 22\u202fg/mol\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine the number of distinct real roots of a quadratic equation.\nExpression: x^2 - 5x + 6 = 0\n\nWhich of the following is correct?\n[A] Two distinct real roots\n[B] One repeated real root\n[C] No real roots\n[D] Infinitely many roots\n\nAnswer:",
+        "provided_inspirations": [
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "6 6 6 6 6 6 6 6 6 7 Answer:\"",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?"
+        ],
+        "steered_prompt": "Subject: Quick check on a quadratic problem for tomorrow\u2019s class\n\nHi Team,\n\nI\u2019m putting together a practice question for my high\u2011school algebra session. The equation we\u2019re looking at is:\n\nx^2 - 5x + 6 = 0\n\nWhich of the following describes the number of distinct real roots?\n\n[A] Two distinct real roots  \n[B] One repeated real root  \n[C] No real roots  \n[D] Infinitely many roots  \n\nThanks for the help!"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([price*qty for price, qty in [(10,2),(5,3)]]) * 1.0\n\nSelect the correct result.\n[A] 35.0\n[B] 30.0\n[C] 35\n[D] 30\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "sum ([len ( item ) for item in orders])",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "total _ cost = price * quantity + tax Rule:"
+        ],
+        "steered_prompt": "FinanceBot: I just ran the cost aggregation script and got this expression:\n\n```python\nsum([price*qty for price, qty in [(10,2),(5,3)]]) * 1.0\n```\n\nWhich of the following values is the correct total?\n\n[A] 35.0  \n[B] 30.0  \n[C] 35  \n[D] 30  \n\nYour pick:"
+    },
+    {
+        "original_prompt": "Task: Identify the color change of copper(II) sulfate pentahydrate upon heating.\n\nWhich of the following describes the observed color after dehydration?\n[A] White\n[B] Blue\n[C] Green\n[D] Yellow\n\nAnswer:",
+        "provided_inspirations": [
+            "Tell me the color change of co pper ( II ) sul f ate pent ah yd rate upon he ating.",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "I ' m writing the text for a new chem istry exhib it at the City Science Museum, and the panel on alk ali met als mentions that dro pping sod ium into water produces a specific comp ound.",
+            "Can you provide the primary product of this reaction?",
+            "I ' m prepar ing the text for the new chem istry exhib it at the City Science Museum, specifically the panel titled ' M ole cules Ar ound Us ' ( file exhib it _ m ole cules.",
+            "Per form sentiment analysis on the following input record."
+        ],
+        "steered_prompt": "Subject: Quick fact\u2011check for the Copper Sulfate exhibit  \n\nHi Alex,  \n\nI\u2019m finalizing the panel text for the \u201cMolecules Around Us\u201d display (file\u202fexhibit_molecules.txt) and need to confirm the color we should list for copper(II) sulfate pentahydrate after it\u2019s heated and loses its water of crystallization.  \n\nWhich of the following descriptions matches the observed color after dehydration?  \n\n[A] White  \n[B] Blue  \n[C] Green  \n[D] Yellow  \n\nThanks,  \nMaya (Exhibit Curator)"
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a polynomial.\nExpression: x^2\n\nWhich of the following is the correct derivative?\n[A] 2x\n[B] x\n[C] 2\n[D] x^2\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "Hey Maya,\n\nI'm reviewing the derivative for the function we discussed:\n\nExpression: x^2\n\nWhich of the following is the correct derivative?\n\nA) 2x  \nB) x  \nC) 2  \nD) x^2\n\nThanks!"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: len([1,2,3])*2\n\nSelect the correct result.\n[A] 3\n[B] 5\n[C] 6\n[D] 8\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([len ( item ) for item in orders])",
+            "6 6 6 6 6 6 6 6 6 7 Answer:\"",
+            "1 8 1 6 Answer:\"",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "[1, 2, 3]",
+            "Check if len ( cart ) > 0 before performing the division."
+        ],
+        "steered_prompt": "During the code review for the new CartMetrics microservice, a teammate posted the following snippet to confirm its behavior:\n\n```python\nlen([1,2,3]) * 2\n```\n\nWhat value does this expression produce?\n\nA) 3  \nB) 5  \nC) 6  \nD) 8  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: All mammals are warm-blooded.\nStatement 2: If something is a mammal, then it is warm-blooded.\n\nSelect the appropriate answer.\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Insufficient information.\n[D] Both are contradictions.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "Statement 1:",
+            "Both are contradict ions.",
+            "The argument is a logical f alla cy.",
+            "\u00ac p \u2228 q.",
+            "All dogs are warm \u2011 blo oded."
+        ],
+        "steered_prompt": "From: Alex Patel <alex.patel@bioinfo.org>  \nSent: Tue Jun 6 2026 09:13  \nSubject: Logic check on mammal classification  \n\nTeam,\n\nWhile updating our species classification rules, I came across two formulations:\n\n1. All mammals are warm\u2011blooded.  \n2. If something is a mammal, then it is warm\u2011blooded.  \n\nWhich of the following best describes their relationship?\n\n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Insufficient information.  \n[D] Both are contradictions."
+    },
+    {
+        "original_prompt": "Task: Identify the primary product of a chemical reaction.\nScenario: Sodium metal reacts with water.\n\nWhich of the following best describes the primary product of this reaction?\n[A] Sodium chloride (NaCl)\n[B] Sodium hydroxide (NaOH)\n[C] Sodium peroxide (Na2O2)\n[D] Hydrogen gas (H2)\n\nAnswer:",
+        "provided_inspirations": [
+            "Can you provide the primary product of this reaction?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "I ' m writing the text for a new chem istry exhib it at the City Science Museum, and the panel on alk ali met als mentions that dro pping sod ium into water produces a specific comp ound.",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "Hey Alex,\n\nWe're finalizing the text for the alkali metals panel at the City Science Museum. When sodium metal is dropped into water, what\u2019s the primary product of that reaction?\n\n[A] Sodium chloride (NaCl)  \n[B] Sodium hydroxide (NaOH)  \n[C] Sodium peroxide (Na\u2082O\u2082)  \n[D] Hydrogen gas (H\u2082)\n\nYour pick?"
+    },
+    {
+        "original_prompt": "Task: Solve a quadratic equation.\nEquation: 2x^2 - 8x + 6 = 0\n\nWhich of the following is the larger real root?\n[A] 1\n[B] 3\n[C] 2\n[D] -1\n\nAnswer:",
+        "provided_inspirations": [
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "1 8 1 6 Answer:\""
+        ],
+        "steered_prompt": "Subject: Quick check on tomorrow\u2019s SAT prep problem\n\nHi Alex,\n\nI\u2019m going over the quadratic we\u2019ll cover in the next session and wanted to double\u2011check the larger real root for this one:\n\nEquation: 2x^2 - 8x + 6 = 0\n\nWhich of the following is the larger real root?\nA) 1\nB) 3\nC) 2\nD) -1\n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate Python expression with edge case.\nExpression: sum([price for price in prices]) / len(prices)\nContext: prices = []\n\nOptions:\n[A] Raises ZeroDivisionError\n[B] Returns 0\n[C] Returns None\n[D] Returns NaN\n\nAnswer:",
+        "provided_inspirations": [
+            "total = df [' price ']",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "It will raise a TypeError only if nan appears as price or q ty.",
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "E valu ate the correct arithmetic expression for total cost."
+        ],
+        "steered_prompt": "During the nightly inventory audit, the script attempts to compute the average unit price:\n\nExpression: sum([price for price in prices]) / len(prices)  \nContext: prices = []\n\nPossible outcomes observed in the logs:\n\n[A] The run aborts with a ZeroDivisionError  \n[B] The function returns 0  \n[C] The function returns None  \n[D] The function returns NaN  \n\nWhich outcome will actually occur?"
+    },
+    {
+        "original_prompt": "Task: Compare molecular bond energies.\nMolecule A: O2 (dioxygen)\nMolecule B: O3 (ozone)\n\nOptions:\n[A] O3 has a higher average bond energy than O2.\n[B] O2 has a higher average bond energy than O3.\n[C] Both have equal average bond energies.\n[D] Bond energies cannot be compared without temperature data.\n\nAnswer:",
+        "provided_inspirations": [
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "Both are contradict ions.",
+            "I ' m final izing the text for the new chem istry wing at the city museum, and the draft panel on the periodic table says that element 1 1 8, O gan ess on, is a solid at room temperature.",
+            "I ' m writing the text for a new chem istry exhib it at the City Science Museum, and the panel on alk ali met als mentions that dro pping sod ium into water produces a specific comp ound.",
+            "Wh ich of the following objects experiences greater gravit ational acceleration?",
+            "NO \u2082 mol ar mass and geometry."
+        ],
+        "steered_prompt": "From: Dr. Elena Ruiz <elena.chem@citysciencemuseum.org>\nTo: Exhibit Content Team\nSubject: Quick verification needed for O\u2082 vs O\u2083 panel text\n\nTeam,\n\nWe're finalizing the chemistry wing signage and need to confirm the comparative wording for the bond energies of the two gases featured on the ozone display.\n\nMolecule\u202fA: O\u2082 (dioxygen)  \nMolecule\u202fB: O\u2083 (ozone)\n\nWhich statement is correct?\n\n[A] O\u2083 has a higher average bond energy than O\u2082.  \n[B] O\u2082 has a higher average bond energy than O\u2083.  \n[C] Both have equal average bond energies.  \n[D] Bond energies cannot be compared without temperature data.\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Identify historical date.\nEvent: Start of the Battle of the Bulge (World War II)\n\nOptions:\n[A] December 12, 1944\n[B] December 16, 1944\n(C) January 5, 1945\n[D] November 30, 1944\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "Rec all a historical date.",
+            "I ' m draft ing a historical over view for a client report on World War II for our consult ing firm, Global In s ights.",
+            "In the section titled \" C old War Mil est ones \" ( file \" doc _ report _ v 2.",
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression."
+        ],
+        "steered_prompt": "Subject: Quick check on Battle of the Bulge start date for client report  \n\nHi team,  \n\nI'm finalizing the World War\u202fII timeline in the upcoming Global Insights client briefing. I need to confirm the correct start date for the Battle of the Bulge. Please select the appropriate option from the list below.\n\nEvent: Start of the Battle of the Bulge (World War\u202fII)\n\nOptions:  \n[A] December 12, 1944  \n[B] December 16, 1944  \n(C) January 5, 1945  \n[D] November 30, 1944  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute the discriminant of a quadratic equation.\nEquation: 2x^2 - 4x + 2 = 0\n\nWhich of the following is the correct discriminant?\n[A] 0\n[B] 4\n[C] -4\n[D] 8\n\nAnswer:",
+        "provided_inspirations": [
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations."
+        ],
+        "steered_prompt": "Hey everyone,\n\nI'm putting together a quick practice question for my SAT prep class. For the quadratic equation  \n\n2x^2\u202f\u2212\u202f4x\u202f+\u202f2\u202f=\u202f0  \n\nwhat is the discriminant?\n\nA) 0  \nB) 4  \nC) \u20134  \nD) 8  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([price for price in [10,20,30]]) / len([10,20,30])\n\nSelect the correct result.\n[A] 10\n[B] 20\n[C] 30\n[D] 0\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "Hey Alex,\n\nCould you take a look at the following Python snippet we\u2019re using to compute the average price for a small set of items and let me know which result is correct?\n\n```python\nsum([price for price in [10,20,30]]) / len([10,20,30])\n```\n\nSelect the appropriate answer:\n\n[A] 10  \n[B] 20  \n[C] 30  \n[D] 0\n\nThanks!"
+    },
+    {
+        "original_prompt": "Task: Identify the approximate melting point of Oganesson (element 118).\n\nSelect the correct value.\n[A] -50\u202f\u00b0C\n[B] 0\u202f\u00b0C\n[C] 71\u202f\u00b0C\n[D] Unknown (no data)\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m final izing the text for the new chem istry wing at the city museum, and the draft panel on the periodic table says that element 1 1 8, O gan ess on, is a solid at room temperature.",
+            "I ' m final izing the safety data sheet for the new clean ing product we produce at C lean Co, and the draft lists the bo iling point of ac et one as 5 6 \u00b0 C.",
+            "Wh ich is the bo iling point of ac et one at standard atmos pher ic pressure?",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "I ' m final izing the script for our museum exhib it ' Elements of Ste el ' at the City Science Museum, and the panel text mentions that iron ( Fe ) has a specific atomic number."
+        ],
+        "steered_prompt": "Hey team,\n\nI'm finalizing the copy for the periodic\u2011table panel in the new Chemistry Wing at the City Science Museum. We need to list an approximate melting point for element\u202f118, Oganesson. Which of the following should we use?\n\n[A] \u201350\u202f\u00b0C  \n[B] 0\u202f\u00b0C  \n[C] 71\u202f\u00b0C  \n[D] Unknown (no data)\n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Determine the correct date of the Storming of the Bastille.\n\nChoose one:\n[A] July 12, 1789\n[B] July 13, 1789\n[C] July 14, 1789\n[D] July 15, 1789\n\nAnswer:",
+        "provided_inspirations": [
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "Rec all a historical date.",
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "I want to make sure this date is accurate before we send it to the client.",
+            "The draft currently says 2 5 6 0 BC, but I ' m not certain."
+        ],
+        "steered_prompt": "Hi team,\n\nI'm putting together the historical timeline for the upcoming Heritage Consulting quarterly client report. For the French Revolution section I need to confirm the exact date of the Storming of the Bastille. Please let me know which of the following is correct:\n\n[A] July 12, 1789  \n[B] July 13, 1789  \n[C] July 14, 1789  \n[D] July 15, 1789  \n\nYour pick:"
+    },
+    {
+        "original_prompt": "Task: Evaluate a basic limit in calculus.\nExpression: lim_{x\u21920} (sin x)/x\n\nSelect the correct limit.\nOptions:\n[A] 0\n[B] 1\n[C] \u221e\n[D] Does not exist\n\nAnswer:",
+        "provided_inspirations": [
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "Comput e the derivative of a trig on ometric function.",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7.",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?"
+        ],
+        "steered_prompt": "I'm updating lesson\u202f7 in our MathMaster tutoring app and need to confirm the limit question.  \n\nExpression: lim_{x\u21920} (sin\u202fx)/x  \n\nWhich of the following is the correct limit?  \n\nOptions:  \n[A] 0  \n[B] 1  \n[C] \u221e  \n[D] Does not exist  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Analyze a Python list comprehension.\nCode: total = sum([price*qty for price, qty in items])\n\nWhich of the following statements is true about the execution of this code when items may contain a None value?\nOptions:\n[A] It will always raise a TypeError.\n[B] It will raise a TypeError only if None appears as price or qty.\n[C] It will never raise a TypeError.\n[D] It will raise a TypeError only when items is empty.\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "It will raise a TypeError only if nan appears as price or q ty.",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "sum ([len ( item ) for item in orders])",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "From: data_engineering@shopify.com  \nSubject: Intermittent TypeError in order total calculation  \n\nTeam,  \n\nOur nightly batch job computes the total amount for a collection of order items using this line:\n\ntotal = sum([price*qty for price, qty in items])\n\nWe\u2019ve noticed that a TypeError sometimes surfaces when the `items` list contains a `None` value. Which statement accurately describes when the TypeError will be raised?\n\n[A] It will always raise a TypeError.  \n[B] It will raise a TypeError only if None appears as price or qty.  \n[C] It will never raise a TypeError.  \n[D] It will raise a TypeError only when items is empty."
+    },
+    {
+        "original_prompt": "Task: Recall a historical date.\nQuestion: On which date did the D\u2011Day landings in Normandy take place?\n\nSelect the correct answer.\nOptions:\n[A] June 4, 1944\n[B] June 5, 1944\n[C] June 6, 1944\n[D] June 7, 1944\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "Rec all a historical date.",
+            "' Hi, I placed order OR D - 8 3 9 2 7 4 on March 1 2 th, but the delivery address shows as 1 2 3 Main St instead of my actual address 4 5 6 Oak Avenue.",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "I want to make sure this date is accurate before we send it to the client.",
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9."
+        ],
+        "steered_prompt": "Subject: Quick fact\u2011check for the Heritage Consulting quarterly report\n\nHi team,\n\nI'm finalizing the WWII section and need to confirm the exact date of the D\u2011Day landings in Normandy. Could you verify which of the following dates is correct?\n\nOptions:\n[A] June 4, 1944\n[B] June 5, 1944\n[C] June 6, 1944\n[D] June 7, 1944\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 8x + 6 = 0\n\nWhich of the following are the real roots?\nOptions:\n[A] x = 1 and x = 3\n[B] x = 2 and x = 3\n[C] x = 1 and x = 2\n[D] No real roots\n\nAnswer:",
+        "provided_inspirations": [
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "1 8 1 6 Answer:\""
+        ],
+        "steered_prompt": "From: Ms. Rivera (Math Department)  \nTo: AP Calculus 101 \u2013 Study Group  \nSubject: Quick check on quadratic roots  \n\nTeam, could you confirm the real roots for the equation  \n\n2x^2 - 8x + 6 = 0  \n\nWhich of the following options lists the correct real roots?  \n\n[A] x = 1 and x = 3  \n[B] x = 2 and x = 3  \n[C] x = 1 and x = 2  \n[D] No real roots  \n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([len(item) for item in orders])\n\nSelect the correct description of the result.\nOptions:\n[A] The total number of characters across all order strings in the list 'orders'.\n[B] The total number of items in the list 'orders'.\n[C] The sum of the lengths of each sub\u2011list within 'orders'.\n[D] The number of orders multiplied by the average length of an order.\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([len ( item ) for item in orders])",
+            "sum ([price * q ty for price, q ty in items])",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:",
+            "Check if len ( cart ) > 0 before performing the division."
+        ],
+        "steered_prompt": "During the nightly batch processing of the e\u2011commerce system, the script logs the following calculation:\n\nsum([len(item) for item in orders])\n\nWhich description best matches the value produced by this computation?\n\nOptions:\n[A] The total number of characters across all order strings in the list 'orders'.\n[B] The total number of items in the list 'orders'.\n[C] The sum of the lengths of each sub\u2011list within 'orders'.\n[D] The number of orders multiplied by the average length of an order.\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Identify the reported half\u2011life of Oganesson (element 118).\n\nWhich of the following is closest to the accepted value?\nOptions:\n[A] 0.7 milliseconds\n[B] 0.9 seconds\n[C] 2 minutes\n[D] 15 seconds\n\nAnswer:",
+        "provided_inspirations": [
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "What does it compute?",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "I ' m final izing the text for the new chem istry wing at the city museum, and the draft panel on the periodic table says that element 1 1 8, O gan ess on, is a solid at room temperature.",
+            "The review posted on 2 0 2 4 \u2011 0 4 \u2011 1 8 reads:",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "I\u2019m finalizing the display text for the new chemistry wing at the city museum, and the draft panel on the periodic table lists element\u202f118, Oganesson, as a solid at room temperature. I need to confirm the reported half\u2011life before we go to print.  \n\nWhich of the following is closest to the accepted value?  \nOptions:  \n[A] 0.7\u202fmilliseconds  \n[B] 0.9\u202fseconds  \n[C] 2\u202fminutes  \n[D] 15\u202fseconds  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine the end date of the Battle of Gettysburg.\n\nChoose the correct answer.\nOptions:\n[A] July 1, 1863\n[B] July 2, 1863\n[C] July 3, 1863\n[D] July 4, 1863\n\nAnswer:",
+        "provided_inspirations": [
+            "Rec all a historical date.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "The draft currently says 2 5 6 0 BC, but I ' m not certain.",
+            "I want to make sure this date is accurate before we send it to the client.",
+            "' Hi, I placed order OR D - 8 3 9 2 7 4 on March 1 2 th, but the delivery address shows as 1 2 3 Main St instead of my actual address 4 5 6 Oak Avenue."
+        ],
+        "steered_prompt": "Hi team, I\u2019m finalizing the Civil War section of the Heritage Consulting quarterly client report and need to confirm the correct end date of the Battle of Gettysburg. Which of the following dates is accurate?\n\nOptions:\n[A] July 1, 1863\n[B] July 2, 1863\n[C] July 3, 1863\n[D] July 4, 1863\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute a definite integral.\nIntegral: \u222b\u2080\u00b3 x\u00b2 dx\n\nWhich of the following is the correct result?\nOptions:\n[A] 9\n[B] 12\n[C] 27\n[D] 18\n\nAnswer:",
+        "provided_inspirations": [
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Hey Alex,\n\nI'm reviewing the calculations for our upcoming analysis and need to confirm the value of this definite integral:\n\n\u222b\u2080\u00b3 x\u00b2\u202fdx\n\nWhich of the following is the correct result?\n\nOptions:\n[A] 9\n[B] 12\n[C] 27\n[D] 18\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension.\nExpression: [x*2 for x in range(3)]\n\nSelect the correct resulting list.\nOptions:\n[A] [0, 1, 2]\n[B] [0, 2, 4]\n[C] [2, 4, 6]\n[D] [1, 3, 5]\n\nAnswer:",
+        "provided_inspirations": [
+            "[1, 2, 3]",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "The draft currently says 2 5 6 0 BC, but I ' m not certain.",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "py, I saw a line that uses pandas:",
+            "sum ([len ( item ) for item in orders])"
+        ],
+        "steered_prompt": "Alex (on #data\u2011processing): I'm reviewing a line in utils.py and want to double\u2011check the result.\n\nCode snippet: [x*2 for x in range(3)]\n\nWhat list does this comprehension produce?\n\nOptions:\nA. [0, 1, 2]\nB. [0, 2, 4]\nC. [2, 4, 6]\nD. [1, 3, 5]\n\nReply with the letter of the correct choice."
+    },
+    {
+        "original_prompt": "Task: Determine logical validity.\nArgument:\n1. If it rains, the ground gets wet.\n2. It rains.\n\u2234 The ground gets wet.\n\nChoose the appropriate answer.\nOptions:\n[A] Valid (modus ponens)\n[B] Invalid (affirming the consequent)\n[C] Invalid (denying the antecedent)\n[D] Invalid (fallacy of irrelevant conclusion)\n\nAnswer:",
+        "provided_inspirations": [
+            "The argument is a logical f alla cy.",
+            "The ground is not wet unless it ra ins.",
+            "They are equivalent only in intu ition istic logic.",
+            "Our current sentiment class ifier l abeled this as Pos itive, but I suspect the correct label should be Neg ative.",
+            "\u00ac p \u2228 q.",
+            "The argument is invalid ( aff irm ing the consequ ent )."
+        ],
+        "steered_prompt": "Ticket #4532 \u2013 Reasoning Validation Request  \nSubmitted by: RainAlert Bot (internal policy engine)  \n\nObserved premise chain:  \n1. If it rains, the ground gets wet.  \n2. It rains.  \n\u2234 The ground gets wet.  \n\nThe argument appears to be a logical fallacy.  \n\nPossible classifications:  \n[A] Valid (modus ponens)  \n[B] Invalid (affirming the consequent)  \n[C] Invalid (denying the antecedent)  \n[D] Invalid (fallacy of irrelevant conclusion)  \n\nPlease record the appropriate classification."
+    },
+    {
+        "original_prompt": "Task: Identify the molar mass of water (H\u2082O).\n\nSelect the correct value.\nOptions:\n(A) 16 g/mol\n(B) 18 g/mol\n(C) 20 g/mol\n(D) 22 g/mol\n\nAnswer:",
+        "provided_inspirations": [
+            "NO \u2082 mol ar mass and geometry.",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "Wh ich of the following is the correct probability?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?"
+        ],
+        "steered_prompt": "From: Alex Rivera (Senior Lab Technician)  \nTo: ChemAssist Bot  \nSubject: Quick confirmation needed \u2013 molar mass of water (H\u2082O)\n\nI'm finalizing a reagent prep sheet and need to verify the exact molar mass of water. Which of the following values is correct?\n\nOptions:\n(A) 16 g/mol\n(B) 18 g/mol\n(C) 20 g/mol\n(D) 22 g/mol\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute the area of a triangle.\nGiven: base = 8 cm, height = 5 cm.\n\nWhich of the following is the correct area?\n[A] 20 cm\u00b2\n[B] 40 cm\u00b2\n[C] 13 cm\u00b2\n[D] 8 cm\u00b2\n\nAnswer:",
+        "provided_inspirations": [
+            "base = 8 cm, height = 5 cm.",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "I ' m final izing the safety data sheet for the new clean ing product we produce at C lean Co, and the draft lists the bo iling point of ac et one as 5 6 \u00b0 C.",
+            "NO \u2082 mol ar mass and geometry.",
+            "Wh ich of the following is the correct probability?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "From: engineering@widgetco.com\nTo: design-team@widgetco.com\nSubject: Quick check \u2013 area of triangular bracket\n\nTeam,\n\nFor the new triangular bracket in the XYZ assembly, the spec sheet lists:\n- base = 8\u202fcm\n- height = 5\u202fcm\n\nCould you confirm which of the following values we should record as the area?\n\nA) 20\u202fcm\u00b2  \nB) 40\u202fcm\u00b2  \nC) 13\u202fcm\u00b2  \nD) 8\u202fcm\u00b2  \n\nThanks."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: total = sum([price for price in prices]) * 0.9 with prices = [100, 200, 300]\n\nSelect the correct result.\n[A] 540.0\n[B] 600.0\n[C] 450.0\n[D] 630.0\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:",
+            "sum ([len ( item ) for item in orders])",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "The finance batch job logged the following calculation:\n\ntotal = sum([price for price in prices]) * 0.9 with prices = [100, 200, 300]\n\nWhat should the variable\u202ftotal contain?\n\nA) 540.0  \nB) 600.0  \nC) 450.0  \nD) 630.0  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Identify element properties.\nAtomic number: 26\n\nSelect the correct symbol and approximate atomic mass.\n[A] Fe, 55.85 u\n[B] Co, 58.93 u\n[C] Ni, 58.69 u\n[D] Mn, 54.94 u\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m final izing the script for our museum exhib it ' Elements of Ste el ' at the City Science Museum, and the panel text mentions that iron ( Fe ) has a specific atomic number.",
+            "NO \u2082 mol ar mass and geometry.",
+            "Ident ify element properties.",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "I ' m final izing the text for the new chem istry wing at the city museum, and the draft panel on the periodic table says that element 1 1 8, O gan ess on, is a solid at room temperature.",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "Subject: Quick verification needed for the \u201cElements of Steel\u201d exhibit panel  \n\nHi team,  \n\nI\u2019m finalizing the text for the \u201cElements of Steel\u201d exhibit at the City Science Museum. The draft panel for iron lists an atomic number of 26, and we need to confirm the correct symbol and approximate atomic mass to include.  \n\nAtomic number: 26  \n\nSelect the correct symbol and approximate atomic mass.  \n[A] Fe, 55.85\u202fu  \n[B] Co, 58.93\u202fu  \n[C] Ni, 58.69\u202fu  \n[D] Mn, 54.94\u202fu  \n\nThanks for confirming the right choice."
+    },
+    {
+        "original_prompt": "Task: Historical date identification.\nEvent: Inauguration of the Eiffel Tower.\n\nChoose the correct year.\n[A] 1887\n[B] 1889\n[C] 1891\n[D] 1900\n\nAnswer:",
+        "provided_inspirations": [
+            "Rec all a historical date.",
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "' Hi, I placed order OR D - 8 3 9 2 7 4 on March 1 2 th, but the delivery address shows as 1 2 3 Main St instead of my actual address 4 5 6 Oak Avenue.",
+            "I want to make sure this date is accurate before we send it to the client."
+        ],
+        "steered_prompt": "Hi team,\n\nI'm finalizing the timeline for the Heritage Consulting quarterly client report and need to verify the year the Eiffel Tower was inaugurated before we send it out. Please confirm the correct year from the list below:\n\n[A] 1887  \n[B] 1889  \n[C] 1891  \n[D] 1900  \n\nYour selection:\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Differentiate the given function.\nFunction: f(x)=3x^2*sin(x)\n\nWhich of the following is the correct derivative?\n[A] 6x*sin(x)+3x^2*cos(x)\n[B] 6x*cos(x)-3x^2*sin(x)\n[C] 3x^2*sin(x)\n[D] 9x*sin(x)\n\nAnswer:",
+        "provided_inspirations": [
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "Comput e the derivative of a trig on ometric function.",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Subject: Verify derivative for auto\u2011grader implementation  \n\nHi team,\n\nI'm finalizing the answer\u2011checking script for our calculus module and need to confirm the correct derivative of the function we\u2019re testing:\n\nf(x) = 3x\u00b2\u202f\u00b7\u202fsin(x)\n\nWhich of the following expressions is the correct derivative?\n\n[A] 6x\u202fsin(x) + 3x\u00b2\u202fcos(x)  \n[B] 6x\u202fcos(x) \u2013 3x\u00b2\u202fsin(x)  \n[C] 3x\u00b2\u202fsin(x)  \n[D] 9x\u202fsin(x)\n\nPlease reply with the letter of the correct choice so I can update the grader."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([v*2 for v in [3,4,5]])\n\nSelect the correct result.\n[A] 12\n[B] 24\n[C] 28\n[D] 30\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "E valu ate the correct arithmetic expression for total cost."
+        ],
+        "steered_prompt": "From: CostCalc Service <costcalc@acme.com>\nSent: Tue Apr 23 10:15:42 2024\nSubject: Verification needed \u2013 computed total cost\n\nThe automated cost calculation routine executed the following Python expression:\n\nExpression: sum([v*2 for v in [3,4,5]])\n\nPlease confirm the correct result from the options below:\n[A] 12\n[B] 24\n[C] 28\n[D] 30\n\nYour response:"
+    },
+    {
+        "original_prompt": "Task: Determine the validity of the syllogism.\nPremise 1: All mammals are warm\u2011blooded.\nPremise 2: All dogs are mammals.\nConclusion: All dogs are warm\u2011blooded.\n\nSelect the appropriate answer.\n[A] The argument is valid.\n[B] The argument is invalid.\n[C] Cannot be determined.\n[D] The premises are contradictory.\n\nAnswer:",
+        "provided_inspirations": [
+            "The argument is a logical f alla cy.",
+            "All dogs are warm \u2011 blo oded.",
+            "The argument is invalid ( aff irm ing the consequ ent ).",
+            "Statement 1:",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            " In su fficient information."
+        ],
+        "steered_prompt": "Jordan (Compliance Team) \u2013 09:12\u202fAM  \nWe need to confirm the correct answer before I mark it as solved.\n\nStatement 1:  \nPremise 1: All mammals are warm\u2011blooded.  \nPremise 2: All dogs are mammals.  \nConclusion: All dogs are warm\u2011blooded.\n\nWhich option accurately describes this syllogism?  \n[A] The argument is valid.  \n[B] The argument is invalid.  \n[C] Cannot be determined.  \n[D] The premises are contradictory.  \n\nReply with the letter when you\u2019ve verified the logic."
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a polynomial function.\nFunction: f(x) = 3x^4 - 5x + 2\n\nWhich of the following is the correct derivative?\n[A] 12x^3 - 5\n[B] 12x^3 - 5x\n[C] 12x^3 + 5\n[D] 3x^4 - 5\n\nAnswer:",
+        "provided_inspirations": [
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "Wh ich of the following is the correct probability?",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Hey team, I'm updating the DerivativeChecker module and need to confirm the correct derivative for the polynomial we\u2019re handling:\n\nf(x) = 3x^4 - 5x + 2\n\nWhich of the following matches the proper derivative?\n[A] 12x^3 - 5\n[B] 12x^3 - 5x\n[C] 12x^3 + 5\n[D] 3x^4 - 5\n\nPlease let me know the correct option."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension expression.\nExpression: total = sum([len(item) for item in new_items]) * 2 where new_items = ['box', 'crate', 'pallet']\n\nSelect the correct result.\n[A] 22\n[B] 24\n[C] 26\n[D] 28\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([len ( item ) for item in orders])",
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "total _ cost = price * quantity + tax Rule:",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "Hey team, I'm double\u2011checking the nightly inventory script. It calculates the total like this:\n\ntotal = sum([len(item) for item in new_items]) * 2  \nwhere new_items = ['box', 'crate', 'pallet']\n\nWhich of the following values will `total` contain after this run?\n\nA) 22  \nB) 24  \nC) 26  \nD) 28"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence of two quantified statements.\nStatement 1: No cats are dogs.\nStatement 2: All cats are non-dogs.\n\nSelect the appropriate answer.\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Both are contradictions.\n[D] Insufficient information.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "\u00ac p \u2228 q.",
+            "Statement 1:",
+            "Both are contradict ions.",
+            "They are log ically equivalent.",
+            "The argument is a logical f alla cy."
+        ],
+        "steered_prompt": "Hey team, the logic verifier just processed two quantified statements:\n\nStatement\u202f1: No cats are dogs.  \nStatement\u202f2: All cats are non\u2011dogs.\n\nWhich outcome applies?\n\n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Both are contradictions.  \n[D] Insufficient information."
+    },
+    {
+        "original_prompt": "Task: Verify the stoichiometric balance of a chemical equation.\nEquation: CH4 + 2 O2 \u2192 CO2 + 2 H2O\n\nWhich of the following statements is true?\n[A] The equation is balanced.\n[B] The equation is missing oxygen atoms on the product side.\n[C] The equation has too many hydrogen atoms on the reactant side.\n[D] The equation is not balanced because carbon atoms are unequal.\n\nAnswer:",
+        "provided_inspirations": [
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Na H CO \u2083 + CH \u2083 CO OH \u2192 CO \u2082 + H \u2082 O + CH \u2083 CO ON a G iven:",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "Statement 1:",
+            "NO \u2082 mol ar mass and geometry."
+        ],
+        "steered_prompt": "From: Dr. Ananya Patel <ananya.patel@greenfieldlabs.com>\nSent: Tuesday, June 6, 2026 09:15 AM\nTo: Greenfield Chemistry Team\nSubject: Quick verification of reaction stoichiometry\n\nTeam,\n\nCould someone confirm the stoichiometric balance for the following reaction?\n\nCH4 + 2 O2 \u2192 CO2 + 2 H2O\n\nWhich of the statements below is correct?\n\n[A] The equation is balanced.  \n[B] The equation is missing oxygen atoms on the product side.  \n[C] The equation has too many hydrogen atoms on the reactant side.  \n[D] The equation is not balanced because carbon atoms are unequal.\n\nThanks."
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 8x + 6 = 0\n\nWhich of the following are the correct roots?\n[A] x = 1 and x = 3\n[B] x = 3 and x = -1\n[C] x = 1 \u00b1 \u221a2\n[D] x = 1 \u00b1 \u221a3\n\nAnswer:",
+        "provided_inspirations": [
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "1 8 1 6 Answer:\"",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations."
+        ],
+        "steered_prompt": "Hey Maya,\n\nFor tomorrow\u2019s SAT prep I\u2019ve got a quick quadratic you can try:\n\nSolve\u202f2x\u00b2\u00a0\u2013\u00a08x\u00a0+\u00a06\u00a0=\u00a00.\n\nWhich of these gives the correct roots?\n\nA)\u202fx\u202f=\u202f1 and x\u202f=\u202f3  \nB)\u202fx\u202f=\u202f3 and x\u202f=\u202f\u20131  \nC)\u202fx\u202f=\u202f1\u202f\u00b1\u202f\u221a2  \nD)\u202fx\u202f=\u202f1\u202f\u00b1\u202f\u221a3  \n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension.\nExpression: [i*2 for i in range(5)]\n\nSelect the correct result.\n[A] [0, 2, 4, 6, 8]\n[B] [2, 4, 6, 8, 10]\n[C] [1, 3, 5, 7, 9]\n[D] []\n\nAnswer:",
+        "provided_inspirations": [
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "sum ([len ( item ) for item in orders])",
+            "[1, 2, 3]",
+            "6 6 6 6 6 6 6 6 6 7 Answer:\"",
+            "py, I saw a line that uses pandas:",
+            "sum ([price * q ty for price, q ty in items])"
+        ],
+        "steered_prompt": "Hey team, I'm looking at the `price_multiplier` helper in the sales\u2011analytics service. It builds a list using the comprehension:\n\n[i*2 for i in range(5)]\n\nWhich of the following outputs matches what the code will produce?\n\nA) [0, 2, 4, 6, 8]\nB) [2, 4, 6, 8, 10]\nC) [1, 3, 5, 7, 9]\nD) []"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: If it rains, the ground gets wet.\nStatement 2: The ground gets wet only if it rains.\n\nWhich of the following is correct?\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] They are both contradictions.\n[D] Insufficient information.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "The ground is not wet unless it ra ins.",
+            "Statement 1:",
+            "The argument is a logical f alla cy.",
+            "\u00ac p \u2228 q.",
+            "Both are contradict ions."
+        ],
+        "steered_prompt": "Alex (Legal Ops)\u202f10:15\u202fAM  \nI'm double\u2011checking two clause wordings we\u2019ve been using:\n\nStatement\u202f1: If it rains, the ground gets wet.  \nStatement\u202f2: The ground gets wet only if it rains.\n\nWhich of the following best describes their relationship?  \n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Both are contradictions.  \n[D] Insufficient information."
+    },
+    {
+        "original_prompt": "Task: Balance the chemical reaction.\nUnbalanced equation: Na + H2O \u2192 NaOH + H2\n\nChoose the correctly balanced equation.\n[A] 2 Na + 2 H2O \u2192 2 NaOH + H2\n[B] 2 Na + H2O \u2192 2 NaOH + H2\n[C] Na + 2 H2O \u2192 NaOH + H2\n[D] 2 Na + 2 H2O \u2192 2 NaOH + 2 H2\n\nAnswer:",
+        "provided_inspirations": [
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Can you provide the primary product of this reaction?",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "I ' m writing the text for a new chem istry exhib it at the City Science Museum, and the panel on alk ali met als mentions that dro pping sod ium into water produces a specific comp ound."
+        ],
+        "steered_prompt": "From: Dr. Elena Rivera <elena.rivera@cityscience.org>  \nSent: Monday, June\u202f3,\u202f2026\u202f09:15\u202fAM  \nSubject: Quick check on reaction balancing  \n\nTeam,\n\nWe're finalizing the exhibit text for the alkali\u2011metals section of the City Science Museum. The reaction for sodium dropped into water needs to be correctly balanced. Below are the candidate equations we\u2019ve drafted. Please confirm which one is correct.\n\nUnbalanced equation: Na + H2O \u2192 NaOH + H2  \n\nOptions:  \n[A] 2 Na + 2 H2O \u2192 2 NaOH + H2  \n[B] 2 Na + H2O \u2192 2 NaOH + H2  \n[C] Na + 2 H2O \u2192 NaOH + H2  \n[D] 2 Na + 2 H2O \u2192 2 NaOH + 2 H2  \n\nReply with the letter of the correct choice."
+    },
+    {
+        "original_prompt": "Task: Solve the linear equation.\nEquation: 3x - 7 = 11\n\nWhich of the following is the correct value of x?\n[A] 2\n[B] 3\n[C] 4\n[D] 5\n\nAnswer:",
+        "provided_inspirations": [
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "1 8 1 6 Answer:\""
+        ],
+        "steered_prompt": "From: Ms. Rivera <mriviera@school.edu>\nTo: Algebra 101 Slack channel\nSubject: Quick SAT practice\n\nTeam, please solve the following linear equation and tell me which option matches the solution.\n\n3x - 7 = 11\n\nWhich of the following is the correct value of x?\n[A] 2\n[B] 3\n[C] 4\n[D] 5\n\nReply with the letter of the correct answer."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([price * qty for price, qty in zip([10,20,30], [1,2,3])]) / len([10,20,30])\n\nSelect the correct result.\n[A] 20.0\n[B] 30.0\n[C] 40.0\n[D] 46.6666666667\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "OpsBot (Inventory Valuation Service) reports:  \n\nThe nightly job computed the average unit revenue using the expression:  \n\nsum([price * qty for price, qty in zip([10,20,30], [1,2,3])]) / len([10,20,30])  \n\nWhich of the following values matches the result?  \n\n[A] 20.0  \n[B] 30.0  \n[C] 40.0  \n[D] 46.6666666667  \n\nYour selection:"
+    },
+    {
+        "original_prompt": "Task: Determine the year of the Wall Street Crash that began the Great Depression.\n\nChoose one:\n(A) 1927\n(B) 1928\n(C) 1929\n(D) 1930\n\nAnswer:",
+        "provided_inspirations": [
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression.",
+            "Rec all a historical date.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "I ' m draft ing a historical over view for a client report on World War II for our consult ing firm, Global In s ights.",
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?"
+        ],
+        "steered_prompt": "Hi Alex,\n\nI'm putting together the historical timeline for the upcoming Heritage Consulting quarterly client report, and I need to confirm the year of the Wall Street Crash that sparked the Great Depression. Here are the options we\u2019re considering:\n\n(A) 1927  \n(B) 1928  \n(C) 1929  \n(D) 1930  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute a probability.\nQuestion: What is the probability of drawing two aces in succession from a standard 52\u2011card deck without replacement?\n\nWhich of the following is correct?\n[A] 1/221\n[B] 1/169\n[C] 1/1326\n[D] 1/52\n\nAnswer:",
+        "provided_inspirations": [
+            "What is the probability of drawing two a ces in succession from a standard 5 2 \u2011 card deck without replacement?",
+            "Wh ich of the following is the correct probability?",
+            "if you f lip a fair coin three times, what is the probability of getting exactly two heads?",
+            "I ' m creating a new less on for the algebra t utor ing app we launched at Edu T ech, and I need a quick check on a probability problem I ' m about to assign to high school students.",
+            "1 8 1 6 Answer:\"",
+            "Check if len ( cart ) > 0 before performing the division."
+        ],
+        "steered_prompt": "Subject: Quick sanity check on a probability question for the new EduTech tutoring module  \n\nHi Maya,  \n\nI\u2019m putting together a problem for the algebra tutoring app we launched at EduTech and need a fast look\u2011over.  \n\n**Question:** What is the probability of drawing two aces in succession from a standard 52\u2011card deck without replacement?  \n\n**Which of the following is correct?**  \n[A] 1/221  \n[B] 1/169  \n[C] 1/1326  \n[D] 1/52  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate a Python list comprehension.\nCode: [item['price']*1.07 for item in items if item['category']=='electronics']\n\nSelect the correct description of the resulting list.\n[A] Prices of all items multiplied by 1.07\n[B] Prices of electronic items multiplied by 1.07\n[C] All items' categories changed to 'electronics'\n[D] A list of booleans indicating electronic items\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "sum ([len ( item ) for item in orders])",
+            "total _ cost = price * quantity + tax Rule:"
+        ],
+        "steered_prompt": "Subject: Quick check on the electronics price adjustment  \n\nTeam,  \n\nWhile processing the latest batch, I ran the following list comprehension to apply a 7\u202f% tax to our electronics catalog:  \n\n[item['price']*1.07 for item in items if item['category']=='electronics']  \n\nCan anyone confirm which of the statements below correctly describes the list that this expression produces?  \n\n[A] Prices of all items multiplied by 1.07"
+    },
+    {
+        "original_prompt": "Task: Determine logical validity.\nArgument:\n1. If it rains, the ground gets wet.\n2. The ground is wet.\nTherefore, it rains.\n\nChoose one:\n[A] The argument is valid.\n[B] The argument is invalid (affirming the consequent).\n[C] The argument is invalid (denying the antecedent).\n[D] Cannot be determined without more premises.\n\nAnswer:",
+        "provided_inspirations": [
+            "The argument is a logical f alla cy.",
+            "The ground is not wet unless it ra ins.",
+            "They are equivalent only in intu ition istic logic.",
+            "The argument is invalid ( aff irm ing the consequ ent ).",
+            "Statement 1:",
+            "\u00ac p \u2228 q."
+        ],
+        "steered_prompt": "From: logic.team@citygov.org\nTo: senior.analyst@citygov.org\nSubject: Review of inference in Environmental Policy Draft \u2013 Memo #17\n\nDear Analyst,\n\nPlease review the following argument extracted from the draft policy document:\n\n1. If it rains, the ground gets wet.  \n2. The ground is wet.  \nTherefore, it rains.\n\nWhich classification best describes this reasoning?\n\n[A] The argument is valid.  \n[B] The argument is invalid (affirming the consequent).  \n[C] The argument is invalid (denying the antecedent).  \n[D] Cannot be determined without more premises."
+    },
+    {
+        "original_prompt": "Task: Compute the sum of a consecutive integer series.\nQuestion: What is the sum of the integers from 1 to 50?\n\nWhich of the following is correct?\n[A] 1225\n[B] 1275\n[C] 1300\n[D] 1350\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "E valu ate the correct arithmetic expression for total cost.",
+            "1 8 1 6 Answer:\"",
+            "com and my phone is + 1 - 5 5 5 - 8 4 2 - 1 9 7 3.",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7.",
+            "sum ([len ( item ) for item in orders])"
+        ],
+        "steered_prompt": "From: curriculum@mathmaster.io\nTo: devteam@mathmaster.io\nSubject: Quick check \u2013 total sum for new problem set\n\nHey team,\n\nI'm updating the problem set for our high\u2011school tutoring app, Math Master, and need to verify the correct total for this series:\n\nCompute the sum of the integers from 1 to 50.\n\nWhich of the following is correct?\n[A] 1225\n[B] 1275\n[C] 1300\n[D] 1350\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate a Python list comprehension expression.\nExpression: sum([price*qty for price, qty in zip([10,20,30], [2,3,4])])\n\nSelect the correct result.\n[A] 200\n[B] 260\n[C] 280\n[D] 300\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "total = df [' price ']",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:"
+        ],
+        "steered_prompt": "Log entry from the QuickCart inventory service:\n\nThe batch job computes the total revenue using the expression:\nsum([price*qty for price, qty in zip([10,20,30], [2,3,4])])\n\nWhat total does this calculation produce?\n[A] 200\n[B] 260\n[C] 280\n[D] 300\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Assess logical validity of a categorical syllogism.\nPremise 1: All mammals are warm\u2011blooded.\nPremise 2: All dogs are mammals.\nConclusion: All dogs are warm\u2011blooded.\n\nOptions:\n[A] Valid\n[B] Invalid\n[C] Cannot be determined\n[D] Both premises are false\n\nChoose one:\nAnswer:",
+        "provided_inspirations": [
+            "The argument is a logical f alla cy.",
+            "All dogs are warm \u2011 blo oded.",
+            "Statement 1:",
+            "The argument is invalid ( aff irm ing the consequ ent ).",
+            "They are equivalent only in intu ition istic logic.",
+            "Our current sentiment class ifier l abeled this as Pos itive, but I suspect the correct label should be Neg ative."
+        ],
+        "steered_prompt": "From: Dr. Elena Ruiz <elena.r@wildlife.ai>\nTo: Logic Review Channel\nSubject: Verify inference in AnimalTraits module\n\nWe have the following rule in the AnimalTraits inference engine:\n\nPremise 1: All mammals are warm\u2011blooded.\nPremise 2: All dogs are mammals.\nConclusion: All dogs are warm\u2011blooded.\n\nWhich outcome applies?\n[A] Valid\n[B] Invalid\n[C] Cannot be determined\n[D] Both premises are false\n\nReply with the chosen letter."
+    },
+    {
+        "original_prompt": "Task: Identify the atomic number of a chemical element.\nQuestion: What is the atomic number of cobalt (Co)?\n\nOptions:\n[A] 24\n[B] 26\n[C] 27\n[D] 29\n\nSelect the correct answer.\nAnswer:",
+        "provided_inspirations": [
+            "I ' m final izing the script for our museum exhib it ' Elements of Ste el ' at the City Science Museum, and the panel text mentions that iron ( Fe ) has a specific atomic number.",
+            "Na H CO \u2083 + CH \u2083 CO OH \u2192 CO \u2082 + H \u2082 O + CH \u2083 CO ON a G iven:",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "Wh ich of the following is the correct probability?",
+            "1 8 1 6 Answer:\""
+        ],
+        "steered_prompt": "During the final review of the exhibit label for the \u201cElements of Steel\u201d display at the City Science Museum, the panel text states that cobalt (Co) has an atomic number. Which of the following values is correct?\n\n[A] 24  \n[B] 26  \n[C] 27  \n[D] 29  \n\nPlease provide the chosen option.  \nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the limit.\nExpression: (3x^2\u201112x+9)/(x\u20112)\n\nWhich of the following is the correct limit as x\u21922?\n[A] 3\n[B] 6\n[C] 9\n[D] Does not exist\n\nAnswer:",
+        "provided_inspirations": [
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7.",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?"
+        ],
+        "steered_prompt": "Hey team,\n\nI'm finalizing the lesson\u20117 content for our high\u2011school tutoring app **Math Master** and need to confirm the correct limit for the following expression:\n\nExpression: (3x^2\u201112x+9)/(x\u20112)\n\nWhich of these options is the correct limit as\u202fx\u202f\u2192\u202f2?\n[A] 3  \n[B] 6  \n[C] 9  \n[D] Does not exist  \n\nPlease reply with the appropriate choice."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([price*qty for price, qty in []])\n\nSelect the correct result.\n[A] 0\n[B] None\n[C] []\n[D] Raises an exception\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "total _ cost = price * quantity + tax Rule:",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "sum ([len ( item ) for item in orders])"
+        ],
+        "steered_prompt": "During the nightly invoice generation run, the script logs the following operation:\n\n```python\nsum([price*qty for price, qty in []])\n```\n\nWhat will be recorded as the result of this computation?\n\nA) 0  \nB) None  \nC) []  \nD) Raises an exception\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: \u00ac(P \u2227 Q)\nStatement 2: \u00acP \u2228 \u00acQ\n\nSelect the appropriate answer.\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] They are equivalent only in intuitionistic logic.\n[D] Insufficient information.\n\nAnswer:",
+        "provided_inspirations": [
+            "\u00ac p \u2228 q.",
+            "They are equivalent only in intu ition istic logic.",
+            "Statement 1:",
+            "The argument is a logical f alla cy.",
+            "They are log ically equivalent.",
+            "Both are contradict ions."
+        ],
+        "steered_prompt": "Logic Audit \u2013 Module: DeMorganCheck\n\nThe verification system has logged a transformation for review.\n\nStatement 1: \u00ac(P \u2227 Q)  \nStatement 2: \u00acP \u2228 \u00acQ  \n\nChoose the applicable outcome:\n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] They are equivalent only in intuitionistic logic.  \n[D] Insufficient information.  \n\nYour response:"
+    },
+    {
+        "original_prompt": "Task: Identify the element with the highest electronegativity on the Pauling scale.\n\nWhich of the following elements has the greatest electronegativity?\n[A] Oxygen\n[B] Chlorine\n[C] Fluorine\n[D] Nitrogen\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m final izing the script for our museum exhib it ' Elements of Ste el ' at the City Science Museum, and the panel text mentions that iron ( Fe ) has a specific atomic number.",
+            "Can you provide the primary product of this reaction?",
+            "S od ium hydro x ide ( Na OH ) [C]",
+            "I ' m final izing the text for the new chem istry wing at the city museum, and the draft panel on the periodic table says that element 1 1 8, O gan ess on, is a solid at room temperature.",
+            "1 8 1 6 Answer:\"",
+            "Both are contradict ions."
+        ],
+        "steered_prompt": "I'm finalizing the text for the new chemistry wing at the City Science Museum, and the draft panel on electronegativity reads:\n\nWhich element has the greatest electronegativity on the Pauling scale?\n\n[A] Oxygen  \n[B] Chlorine  \n[C] Fluorine  \n[D] Nitrogen  \n\nCould you confirm the correct answer?\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a product of functions.\nFunction: f(x)=3x^2\u202fsin(x)\n\nWhich of the following is the correct derivative?\n[A] 6x\u202fsin(x)+3x^2\u202fcos(x)\n[B] 6x\u202fcos(x)+3x^2\u202fsin(x)\n[C] 3x^2\u202fcos(x)\n[D] 6x\u202fsin(x)\n\nAnswer:",
+        "provided_inspirations": [
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "Comput e the derivative of a trig on ometric function.",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "Subject: Quick check on derivative for our quiz generator  \n\nI'm configuring the auto\u2011grader for the upcoming calculus module. For the function  \n\nf(x)=3x^2\u202fsin(x)  \n\nwe need the correct derivative. The candidate answers we have are:  \n\n[A] 6x\u202fsin(x)+3x^2\u202fcos(x)  \n[B] 6x\u202fcos(x)+3x^2\u202fsin(x)  \n[C] 3x^2\u202fcos(x)  \n[D] 6x\u202fsin(x)  \n\nCould you confirm which one is correct?  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Correct a Python arithmetic expression according to a business rule.\nOriginal expression: total_cost = price * quantity + tax\nRule: tax is applied to the subtotal (price * quantity).\n\nOptions:\n[A] total_cost = price * quantity * (1 + tax)\n[B] total_cost = price * quantity + tax\n[C] total_cost = (price + tax) * quantity\n[D] total_cost = price * (quantity + tax)\n\nAnswer:",
+        "provided_inspirations": [
+            "total _ cost = price * quantity + tax Rule:",
+            "E valu ate the correct arithmetic expression for total cost.",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "sum ([price * q ty for price, q ty in items])",
+            "total = df [' price ']",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "FinanceOps Slack thread  \nJohn (finance-bot@example.com):  \nThe billing microservice is currently using this calculation:  \n\ntotal_cost = price * quantity + tax  \n\nOur policy states that tax must be applied to the subtotal (price\u202f*\u202fquantity). Which of the following revisions correctly follows the rule?\n\n[A] total_cost = price * quantity * (1 + tax)  \n[B] total_cost = price * quantity + tax  \n[C] total_cost = (price + tax) * quantity  \n[D] total_cost = price * (quantity + tax)  \n\nYour pick:"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence of a conditional and a disjunction.\nStatement: If the circuit is closed, then the lamp lights.\nProposed equivalent: The circuit is not closed or the lamp lights.\n\nSelect the correct assessment.\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Equivalence depends on additional premises.\n[D] Both statements are contradictions.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "\u00ac p \u2228 q.",
+            "Both are contradict ions.",
+            "The argument is a logical f alla cy.",
+            "Statement 1:",
+            "Ident ify element properties."
+        ],
+        "steered_prompt": "From: controls@plant.example.com\nTo: logic-review@engineering.example.com\nSubject: Verify equivalence of control condition\n\nHi team,\n\nWe have a control rule in the PLC program:\n\n- Condition: If the circuit is closed, then the lamp lights.\n- Proposed rewrite used in the documentation: The circuit is not closed or the lamp lights.\n\nPlease indicate which assessment is correct.\n\nA) They are logically equivalent.\nB) They are not logically equivalent.\nC) Equivalence depends on additional premises.\nD) Both statements are contradictions.\n\nYour response:"
+    },
+    {
+        "original_prompt": "Task: Identify the standard enthalpy change for the combustion of methane.\nReaction: CH\u2084 + 2 O\u2082 \u2192 CO\u2082 + 2 H\u2082O (liquid)\n\nOptions:\n[A] -890\n[B] +890\n[C] -484\n[D] +484\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "Tell me the color change of co pper ( II ) sul f ate pent ah yd rate upon he ating.",
+            "The original ' price ' column un changed.",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "I ' m final izing the safety data sheet for the new clean ing product we produce at C lean Co, and the draft lists the bo iling point of ac et one as 5 6 \u00b0 C."
+        ],
+        "steered_prompt": "Subject: Quick check on enthalpy value for methane combustion  \n\nHi Alex,  \n\nI'm finalizing the safety data sheet for the new solvent blend at CleanCo and need to verify the standard enthalpy change for the combustion of methane before we lock in the thermodynamic section.  \n\nReaction: CH\u2084 + 2 O\u2082 \u2192 CO\u2082 + 2 H\u2082O (liquid)  \n\nWhich of the following values is correct?  \n\n[A] -890  \n[B] +890  \n[C] -484  \n[D] +484  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 8x + 6 = 0\n\nWhich of the following sets contains the correct solutions?\n[A] {1, 3}\n[B] {1, 2}\n[C] {\u22121, 3}\n[D] {\u22121, \u22123}\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "I ' m assemb ling new content for our high - school algebra t utor ing app, Al gebra Bo ost, and I ' m pulling problems from the latest PDF we received, problem _ set _ algebra.",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "1 8 1 6 Answer:\""
+        ],
+        "steered_prompt": "Hey AlgebraBoost team,\n\nI'm pulling a new question from the latest PDF (problem_set_algebra) for our high\u2011school SAT prep module. The quadratic we need to solve is:\n\n2x^2 - 8x + 6 = 0\n\nWhich of the following answer sets contains the correct solutions?\n\n[A] {1, 3}\n[B] {1, 2}\n[C] {\u22121, 3}\n[D] {\u22121, \u22123}\n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: total = sum([price * qty for price, qty in [(10,2), (5,1)]]) * 1.07\n\nSelect the correct numeric result (rounded to two decimal places).\n[A] 31.80\n[B] 33.00\n[C] 35.10\n[D] 36.30\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "sum ([len ( item ) for item in orders])",
+            "total _ cost = price * quantity + tax Rule:",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "FinanceBot (AcmeCorp) posted a calculation for the latest purchase:\n\ntotal = sum([price * qty for price, qty in [(10,2), (5,1)]]) * 1.07\n\nWhich of the following amounts (rounded to two decimal places) should be recorded as the final charge?\nA) 31.80\nB) 33.00\nC) 35.10\nD) 36.30\n\nYour pick:"
+    },
+    {
+        "original_prompt": "Task: Balance the chemical reaction.\nUnbalanced reaction: NO2 + H2O \u2192 HNO3 + HNO2\n\nChoose the correctly balanced equation.\n[A] 2 NO2 + H2O \u2192 HNO3 + HNO2\n[B] NO2 + H2O \u2192 HNO3 + HNO2\n[C] 3 NO2 + H2O \u2192 2 HNO3 + HNO2\n[D] 2 NO2 + 2 H2O \u2192 2 HNO3 + HNO2\n\nAnswer:",
+        "provided_inspirations": [
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Can you provide the primary product of this reaction?",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "I ' m writing the text for a new chem istry exhib it at the City Science Museum, and the panel on alk ali met als mentions that dro pping sod ium into water produces a specific comp ound.",
+            "Wh ich of the following is the correct probability?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Subject: Confirmation needed for balanced reaction on exhibit panel  \n\nHi Dr. Patel,  \n\nWe're finalizing the text for the \u201cAtmospheric Chemistry\u201d display at the City Science Museum. The panel will show the reaction of nitrogen dioxide with water, and we need to list the correctly balanced equation. Could you let us know which option below is accurate?  \n\nUnbalanced reaction: NO2 + H2O \u2192 HNO3 + HNO2  \n\nOptions:  \n[A] 2 NO2 + H2O \u2192 HNO3 + HNO2  \n[B] NO2 + H2O \u2192 HNO3 + HNO2  \n[C] 3 NO2 + H2O \u2192 2 HNO3 + HNO2  \n[D] 2 NO2 + 2 H2O \u2192 2 HNO3 + HNO2  \n\nYour selection:"
+    },
+    {
+        "original_prompt": "Task: Identify the historically accepted completion year of the Great Pyramid of Giza.\n\nSelect the correct answer.\n[A] 2600\u202fBC\n[B] 2560\u202fBC\n[C] 2500\u202fBC\n[D] 2400\u202fBC\n\nAnswer:",
+        "provided_inspirations": [
+            "Ident ify the histor ically accepted completion year of the Great Py ram id of G iza.",
+            "Rec all a historical date.",
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression.",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "I ' m assemb ling new content for our high - school algebra t utor ing app, Al gebra Bo ost, and I ' m pulling problems from the latest PDF we received, problem _ set _ algebra."
+        ],
+        "steered_prompt": "From: Research Analyst, Heritage Consulting  \nTo: Content Review Team  \nSubject: Verification of Great Pyramid completion year for client report  \n\nThe draft section on ancient engineering lists several possible dates for the completion of the Great Pyramid of Giza. Please confirm the historically accepted year so we can finalize the report.\n\nOptions:  \n[A] 2600\u202fBC  \n[B] 2560\u202fBC  \n[C] 2500\u202fBC  \n[D] 2400\u202fBC  \n\nYour confirmed choice:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the limit of a rational function.\nExpression: (3x^2 - 12x + 9)/(x - 2)\n\nWhich of the following is the limit as x \u2192 2?\n[A] 3\n[B] 6\n[C] Does not exist (infinite)\n[D] 9\n\nAnswer:",
+        "provided_inspirations": [
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7."
+        ],
+        "steered_prompt": "Subject: Quick verification needed for Math Master (lesson\u202f7) limit item  \n\nHi team,  \n\nI'm finalizing the problem set for our high\u2011school tutoring app, Math Master, and need to confirm the correct answer for a limit question in lesson\u202f7.\n\nProblem: Determine the limit of the rational function  \n\n(3x^2 - 12x + 9)/(x - 2)  \n\nas x\u202f\u2192\u202f2.  \n\nThe multiple\u2011choice options we\u2019ve prepared are:  \n\nA. 3  \nB. 6  \nC. Does not exist (infinite)  \nD. 9  \n\nPlease let me know which option is correct.  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python list comprehension.\nExpression: [i*i for i in range(1,5)][-2]\n\nSelect the correct result.\n[A] 4\n[B] 9\n[C] 16\n[D] IndexError\n\nAnswer:",
+        "provided_inspirations": [
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]",
+            "py, I saw a line that uses pandas:",
+            "[1, 2, 3]",
+            "sum ([len ( item ) for item in orders])",
+            "I need to confirm if this value is correct according to standard ent hal py data before final printing.\"",
+            "sum ([price * q ty for price, q ty in items])"
+        ],
+        "steered_prompt": "Subject: Quick check on list\u2011comprehension result in order_summary.py\n\nHi team,\n\nWhile reviewing the latest version of **order_summary.py**, I came across this line that builds a list of squares and then picks the second\u2011to\u2011last entry:\n\n```python\nresult = [i*i for i in range(1,5)][-2]\n```\n\nBefore we push the final report, could someone confirm which value `result` will contain?\n\nOptions:  \nA) 4  \nB) 9  \nC) 16  \nD) IndexError\n\nThanks!"
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: If it rains, the ground gets wet.\nStatement 2: The ground is wet only if it rains.\n\nChoose one:\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] Both are tautologies.\n[D] Both are contradictions.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "The ground is not wet unless it ra ins.",
+            "Statement 1:",
+            "\u00ac p \u2228 q.",
+            "The argument is a logical f alla cy.",
+            "Both are contradict ions."
+        ],
+        "steered_prompt": "From: Alex Rivera <alex.rivera@weathercorp.com>\nTo: Jordan Lee <jordan.lee@weathercorp.com>\nSubject: Quick sanity check on conditional rules\n\nHi Jordan,\n\nI'm looking over two conditional rules we use in the precipitation module and need a second opinion:\n\nStatement 1: If it rains, the ground gets wet.  \nStatement 2: The ground is wet only if it rains.\n\nWhich of the following best describes their relationship?\n\n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] Both are tautologies.  \n[D] Both are contradictions.\n\nThanks,\nAlex"
+    },
+    {
+        "original_prompt": "Task: Solve the quadratic equation.\nEquation: 2x^2 - 5x + 2 = 0\n\nWhich of the following lists the correct roots?\n[A] x = 0.5, x = 2\n[B] x = 1, x = 2\n[C] x = 0.5, x = 1\n[D] x = 2, x = 1.5\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you tell me what the real solutions of this quadratic equation are?",
+            "txt ', I saw that for the equation 2 x ^ 2 - 4 x + 2 = 0 the solution claims the disc rimin ant is 0, imp lying a single root.",
+            "2 x ^ 2 - 8 x + 6 = 0 Please tell me the larger real root?",
+            "I ' m t utor ing high school students for the up coming S AT and we are review ing quadratic equations.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "We need to confirm the correct answer before I mark it as solved.\""
+        ],
+        "steered_prompt": "Hey everyone,\n\nI'm prepping my high\u2011school SAT tutoring session and need to double\u2011check a quadratic problem.\n\nEquation:\u202f2x^2\u202f\u2212\u202f5x\u202f+\u202f2\u202f=\u202f0  \n\nWhich of the following lists the correct roots?\n\n[A]\u202fx\u202f=\u202f0.5,\u202fx\u202f=\u202f2  \n[B]\u202fx\u202f=\u202f1,\u202fx\u202f=\u202f2  \n[C]\u202fx\u202f=\u202f0.5,\u202fx\u202f=\u202f1  \n[D]\u202fx\u202f=\u202f2,\u202fx\u202f=\u202f1.5  \n\nThanks for confirming the right choice."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([price*qty for price, qty in [(10, 2), (5, 3)]])\n\nSelect the correct result.\n[A] 25\n[B] 35\n[C] 40\n[D] 45\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "total = df [' price ']",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total _ cost = price * quantity + tax Rule:",
+            "9 with prices = [1 0 0, 2 0 0, 3 0 0]"
+        ],
+        "steered_prompt": "FinanceOps Bot posted at 09:12\u202fAM:\n\nThe nightly batch computed the total revenue for the pilot batch using the expression:\n\n```python\nsum([price*qty for price, qty in [(10, 2), (5, 3)]])\n```\n\nWhat value does the system report?\n\nA) 25  \nB) 35  \nC) 40  \nD) 45  \n\nYour pick:"
+    },
+    {
+        "original_prompt": "Task: Verify a scientific fact.\nStatement: At standard atmospheric pressure, water boils at exactly 100\u202f\u00b0C.\n\nWhich of the following is true?\n[A] The statement is correct.\n[B] The statement is incorrect because water boils at 212\u202f\u00b0F.\n[C] The statement is incorrect; the boiling point is 90\u202f\u00b0C.\n[D] The statement is incorrect; boiling point varies with altitude.\n\nAnswer:",
+        "provided_inspirations": [
+            "Wh ich is the bo iling point of ac et one at standard atmos pher ic pressure?",
+            "Statement 1:",
+            "I ' m final izing the safety data sheet for the new clean ing product we produce at C lean Co, and the draft lists the bo iling point of ac et one as 5 6 \u00b0 C.",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "The ground is not wet unless it ra ins.",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7."
+        ],
+        "steered_prompt": "From: Jenna Patel <j.patel@cleanco.com>  \nTo: Chemistry Team  \nSubject: Quick check on boiling point entry for SDS draft  \n\nHi all,\n\nI'm finalizing the safety data sheet for our new cleaning product line and the current draft lists the boiling point of water as \u201cexactly 100\u202f\u00b0C at standard atmospheric pressure.\u201d Before I lock this in, could someone confirm the correct statement?\n\nWhich of the following is true?  \n[A] The statement is correct.  \n[B] The statement is incorrect because water boils at 212\u202f\u00b0F.  \n[C] The statement is incorrect; the boiling point is 90\u202f\u00b0C.  \n[D] The statement is incorrect; boiling point varies with altitude.  \n\nThanks,  \nJenna"
+    },
+    {
+        "original_prompt": "Task: Identify a historical date.\nQuestion: In what year did the Berlin Wall fall?\n\nChoose the correct answer.\n[A] 1987\n[B] 1988\n[C] 1989\n[D] 1990\n\nAnswer:",
+        "provided_inspirations": [
+            "Rec all a historical date.",
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "The report includes a tim eline of major stock market crashes, and I need to confirm the year of the Wall Street Cr ash that started the Great De pression.",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "I ' m draft ing a historical over view for a client report on World War II for our consult ing firm, Global In s ights.",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "I'm assembling the historical timeline for the upcoming quarterly client report at Heritage Consulting. The Cold War milestones section needs the exact year the Berlin Wall fell. Please pick the correct year from the options below.\n\n[A] 1987\n[B] 1988\n[C] 1989\n[D] 1990\n\nYour answer:"
+    },
+    {
+        "original_prompt": "Task: Compute the limit of a rational function.\nExpression: (3x^2 - 2x) / (x^2 + 1) as x \u2192 \u221e\n\nWhich of the following is the correct limit?\n[A] 1\n[B] 2\n[C] 3\n[D] Does not exist\n\nAnswer:",
+        "provided_inspirations": [
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "I ' m updating the problem set for our high \u2011 school t utor ing app, Math Master, and need to verify a limit question that appears in the file less on 7.",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?"
+        ],
+        "steered_prompt": "Subject: Verify limit question for Math Master lesson\u202f7  \n\nHi team,  \n\nI'm updating the problem set for our high\u2011school tutoring app, Math Master, and need to confirm the correct limit for the following question that will appear in Lesson\u202f7.  \n\nQuestion: Compute the limit of the rational function (3x^2 - 2x) / (x^2 + 1) as x \u2192 \u221e.  \n\nWhich of the following is the correct limit?  \n[A] 1  \n[B] 2  \n[C] 3  \n[D] Does not exist  \n\nPlease let me know the correct choice.  \n\nThanks,  \n[Your Name]"
+    },
+    {
+        "original_prompt": "Task: Analyze the behavior of a Python expression.\nExpression: total = sum([len(row) for row in data]) / len(data)\nAssume data = []\n\nSelect the correct outcome.\n[A] Raises ZeroDivisionError\n[B] Returns 0\n[C] Returns None\n[D] Raises TypeError\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([len ( item ) for item in orders])",
+            "total = df [' price ']",
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "It will raise a TypeError only if nan appears as price or q ty.",
+            "Check if len ( cart ) > 0 before performing the division."
+        ],
+        "steered_prompt": "During the nightly inventory audit, the script runs the following line to compute an average length:\n\ntotal = sum([len(row) for row in data]) / len(data)\n\nFor this execution the input is set as:\n\ndata = []\n\nWhich of the following outcomes will occur?\n\nA) Raises ZeroDivisionError  \nB) Returns 0  \nC) Returns None  \nD) Raises TypeError"
+    },
+    {
+        "original_prompt": "Task: Determine the stoichiometry of an atmospheric reaction.\nReaction: O3 + UV \u2192 O2 + O\n\nWhich of the following correctly states the number of O2 molecules produced per O3 molecule?\n[A] 1\n[B] 2\n[C] 0.5\n[D] The reaction does not produce O2\n\nAnswer:",
+        "provided_inspirations": [
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Can you provide the primary product of this reaction?",
+            "Wh ich of the following is the correct probability?",
+            "NO \u2082 mol ar mass and geometry.",
+            "Na H CO \u2083 + CH \u2083 CO OH \u2192 CO \u2082 + H \u2082 O + CH \u2083 CO ON a G iven:"
+        ],
+        "steered_prompt": "From: Dr. Maya Patel <m.patel@envirolab.org>\nSent: 06/06/2026 09:14\nTo: Atmospheric Modeling Group\nSubject: Quick check on ozone photolysis stoichiometry\n\nTeam,\n\nIn the current version of our stratospheric chemistry module we have the photolysis step:\n\nO3 + UV \u2192 O2 + O\n\nCould someone confirm the stoichiometric yield of O2 per O3 molecule? Choose the correct answer:\n\n[A] 1\n[B] 2\n[C] 0.5\n[D] The reaction does not produce O2\n\nThanks,\nMaya"
+    },
+    {
+        "original_prompt": "Task: Identify the year of a historical event.\nEvent: D\u2011Day landings (Allied invasion of Normandy)\n\nSelect the correct year.\n[A] 1942\n[B] 1943\n[C] 1944\n[D] 1945\n\nAnswer:",
+        "provided_inspirations": [
+            "I ' m prepar ing a quarter ly client report for Heritage Cons ult ing, and the section on World War II includes a claim that the D \u2011 Day invasion occurred on June 5, 1 9 4 4.",
+            "Rec all a historical date.",
+            "I ' m draft ing a historical over view for a client report on World War II for our consult ing firm, Global In s ights.",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]",
+            "doc x ' I listed the Storm ing of the Bast ille as occurr ing on July 1 4, 1 7 8 9.",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "From: Alex Rivera <alex.rivera@heritageconsulting.com>  \nTo: Maya Patel <maya.patel@heritageconsulting.com>  \nSubject: Confirmation of D\u2011Day landing year for Q2 client brief  \n\nMaya,\n\nI'm finalizing the WWII section of the upcoming client report and need to confirm the year we should cite for the Allied invasion of Normandy (D\u2011Day). The options we have are:\n\n[A] 1942  \n[B] 1943  \n[C] 1944  \n[D] 1945  \n\nPlease let me know the correct choice.\n\nThanks,  \nAlex  \n\nAnswer:"
+    },
+    {
+        "original_prompt": "Task: Compute the area of a circle.\nRadius: 7 cm\n\nWhich of the following is the correct area (use \u03c0 \u2248 3.14)?\n[A] 153.86 cm\u00b2\n[B] 154.00 cm\u00b2\n[C] 153.94 cm\u00b2\n[D] 154.20 cm\u00b2\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "base = 8 cm, height = 5 cm.",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "We need to confirm the correct answer before I mark it as solved.\"",
+            "I ' m final izing the safety data sheet for the new clean ing product we produce at C lean Co, and the draft lists the bo iling point of ac et one as 5 6 \u00b0 C.",
+            "Comput e the derivative of a trig on ometric function."
+        ],
+        "steered_prompt": "Hey Alex,\n\nI'm finalizing the specs for the new circular gauge widget. The design calls for a radius of 7\u202fcm, and I need to lock down the area value before we push it to production. Using \u03c0\u202f\u2248\u202f3.14, which of the following numbers is the correct area?\n\nA) 153.86\u202fcm\u00b2  \nB) 154.00\u202fcm\u00b2  \nC) 153.94\u202fcm\u00b2  \nD) 154.20\u202fcm\u00b2  \n\nLet me know the letter you think is right so I can close this out."
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([10,20,5]) * 1.05\n\nSelect the correct result.\n[A] 36.75\n[B] 36.0\n[C] 35.0\n[D] 37.8\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([price * q ty for price, q ty in items])",
+            "sum ([len ( item ) for item in orders])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "total = df [' price ']",
+            "total _ cost = price * quantity + tax Rule:",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]"
+        ],
+        "steered_prompt": "From: finance@acmecorp.com\nTo: accounting-team@acmecorp.com\nSubject: Quick verification of invoice total\n\nThe recent transaction was processed using the expression:\n\nsum([10, 20, 5]) * 1.05\n\nWhich of the following amounts aligns with the computed result?\nA) 36.75\nB) 36.0\nC) 35.0\nD) 37.8\n\nPlease reply with the appropriate option."
+    },
+    {
+        "original_prompt": "Task: Determine logical equivalence.\nStatement 1: If it rains, the ground gets wet.\nStatement 2: The ground is wet only if it rains.\n\nChoose one:\n[A] They are logically equivalent.\n[B] They are not logically equivalent.\n[C] They are contradictory.\n[D] Insufficient information.\n\nAnswer:",
+        "provided_inspirations": [
+            "They are equivalent only in intu ition istic logic.",
+            "The ground is not wet unless it ra ins.",
+            "Statement 1:",
+            "The argument is a logical f alla cy.",
+            "\u00ac p \u2228 q.",
+            "Both are contradict ions."
+        ],
+        "steered_prompt": "From: alice.smith (Logic QA)  \nTo: #rule-engine-review  \nSubject: Relationship between two conditional rules  \n\nStatement 1: If it rains, the ground gets wet.  \nStatement 2: The ground is wet only if it rains.  \n\nWhich of the following best describes their relationship?  \n[A] They are logically equivalent.  \n[B] They are not logically equivalent.  \n[C] They are contradictory.  \n[D] Insufficient information."
+    },
+    {
+        "original_prompt": "Task: Compute the derivative of a logarithmic function.\nExpression: ln(x^2)\n\nWhich of the following is the correct derivative?\n[A] 2/x\n[B] 1/(x^2)\n[C] 2*ln(x)\n[D] x/2\n\nAnswer:",
+        "provided_inspirations": [
+            "Could you confirm what the correct derivative is so I can program the answer check er correctly?",
+            "f ( x )= 3 x ^ 2 * sin ( x ) Wh ich of the following is the correct derivative?",
+            "( 3 x ^ 2 \u2011 1 2 x + 9 )/ ( x \u2011 2 ) Wh ich of the following is the correct limit as x \u2192 2?",
+            "They are log ically equivalent.",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?",
+            "Wh ich of the following is the correct probability?"
+        ],
+        "steered_prompt": "Hey @bob, I'm updating the derivative logic in the risk\u2011engine's calc module and need to confirm the correct result for the expression\u202fln(x^2). The candidate answers are:\n\nA) 2/x  \nB) 1/(x^2)  \nC) 2*ln(x)  \nD) x/2  \n\nWhich of these is the correct derivative?"
+    },
+    {
+        "original_prompt": "Task: Evaluate the Python expression.\nExpression: sum([i*i for i in range(5)])\n\nSelect the correct result.\n[A] 30\n[B] 10\n[C] 20\n[D] 40\n\nAnswer:",
+        "provided_inspirations": [
+            "sum ([len ( item ) for item in orders])",
+            "sum ([price * q ty for price, q ty in items])",
+            "total _ amount = float ( transaction [' amount _ c ents '])",
+            "6 6 6 6 6 6 6 6 6 7 Answer:\"",
+            "total = df [' price ']",
+            "{ 1 + \u221a 4, 1 - \u221a 4 } [D]"
+        ],
+        "steered_prompt": "Hey team, I'm double\u2011checking a quick sanity\u2011check in our pricing script. The snippet below computes a total:\n\nresult = sum([i*i for i in range(5)])\n\nWhich of the following values does result hold?\n[A] 30\n[B] 10\n[C] 20\n[D] 40\n\nYour pick:"
+    },
+    {
+        "original_prompt": "Task: Identify the correct balanced chemical equation for the combustion of methane.\nReaction: CH4 + O2 \u2192 CO2 + H2O\n\nSelect the correctly balanced equation.\n[A] CH4 + O2 \u2192 CO2 + H2O\n[B] CH4 + 2 O2 \u2192 CO2 + 2 H2O\n[C] 2 CH4 + O2 \u2192 2 CO2 + H2O\n[D] CH4 + 3 O2 \u2192 CO2 + 3 H2O\n\nAnswer:",
+        "provided_inspirations": [
+            "Na + H 2 O \u2192 Na OH + H 2 Cho ose the correctly bal anced equation.",
+            "Can you provide the primary product of this reaction?",
+            "Na H CO \u2083 + CH \u2083 CO OH \u2192 CO \u2082 + H \u2082 O + CH \u2083 CO ON a G iven:",
+            "O 3 + U V \u2192 O 2 + O I nee to know the of O 2 mole cules produced per O 3 mole c ule?",
+            "3 x - 7 = 2 Wh ich of the following is the correct solution for x?",
+            "limit _{ x -> 0 } ( 1 - cos ( x )) / x ^ 2 Wh ich of the following is the correct value?"
+        ],
+        "steered_prompt": "From: Dr. Maya Patel <mpatel@chemcorp.com>\nTo: QA Team\nSubject: Confirmation needed \u2013 methane combustion stoichiometry\n\nTeam,\n\nWe're finalizing the standard operating procedure for the methane combustion test. Please verify the balanced equation we should use.\n\nReaction under consideration: CH4 + O2 \u2192 CO2 + H2O\n\nWhich of the following equations is correctly balanced?\n[A] CH4 + O2 \u2192 CO2 + H2O\n[B] CH4 + 2 O2 \u2192 CO2 + 2 H2O\n[C] 2 CH4 + O2 \u2192 2 CO2 + H2O\n[D] CH4 + 3 O2 \u2192 CO2 + 3 H2O\n\nReply with the option letter."
+    }
+]

@@ -166,39 +166,7 @@ Our experiments demonstrate:
 - More distributed representations in larger compact models.
 - Consistent improvements using the proposed dual-pathway intervention over either prompt editing or activation steering alone.
 
----
 
-## Reproducing the Experiments
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run Chain-of-Thought analysis
-
-```bash
-python scripts/run_cot.py
-```
-
-Run representation probing
-
-```bash
-python scripts/run_probe.py
-```
-
-Run Integrated Gradients
-
-```bash
-python scripts/run_ig.py
-```
-
-Evaluate the intervention pipeline
-
-```bash
-python scripts/evaluate_pipeline.py
-```
 
 ---
 
@@ -209,7 +177,7 @@ If you find this repository useful, please cite:
 ```bibtex
 @article{YOUR_PAPER,
   title={Evaluation Awareness in Compact Language Models},
-  author={Anonymous},
+  author={Navraj Singh, Maheep Chaudhary},
   year={2026}
 }
 ```

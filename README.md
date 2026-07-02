@@ -1,5 +1,7 @@
 # Mechanistic Analysis and Mitigation of Evaluation Awareness in Compact Language Models
 
+
+
 > Investigating how evaluation awareness emerges in compact language models through probing, CoT analysis and feature attribution, and mitigating it using a dual-pathway intervention combining prompt editing with activation steering.
 
 <div align="center">
@@ -8,6 +10,13 @@
 
 
 </div>
+
+## Research Highlights
+
+- First mechanistic investigation of evaluation awareness in compact (1B–12B) language models.
+- Introduces a dual-pathway mitigation combining attribution-guided prompt editing and activation steering.
+- Evaluated across three model families (Gemma, Phi-3, Llama).
+- Uses representation probing and Integrated Gradients to study evaluation-awareness representations.
 
 ---
 

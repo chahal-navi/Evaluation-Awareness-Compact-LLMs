@@ -28,12 +28,12 @@ Using these observations, we develop a **dual-pathway intervention** that combin
 
 ## Key Contributions
 
-- 📈 Characterize how evaluation awareness evolves across Gemma 3, Phi-3, and Llama-3 compact models.
-- 🧠 Analyze reasoning strategies using Chain-of-Thought classification.
-- 🔬 Probe internal representations associated with evaluation awareness.
-- 🎯 Attribute evaluation-awareness signals to input tokens using Integrated Gradients.
-- 🛠️ Introduce a dual-pathway mitigation strategy combining prompt editing and activation steering.
-- 📊 Evaluate intervention effectiveness across multiple model families.
+-  Characterize how evaluation awareness evolves across Gemma 3, Phi-3, and Llama-3 compact models.
+-  Analyze reasoning strategies using Chain-of-Thought classification.
+-  Probe internal representations associated with evaluation awareness.
+-  Attribute evaluation-awareness signals to input tokens using Integrated Gradients.
+-  Introduce a dual-pathway mitigation strategy combining prompt editing and activation steering.
+
 
 ---
 

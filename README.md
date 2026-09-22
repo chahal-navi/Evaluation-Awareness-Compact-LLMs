@@ -11,14 +11,14 @@
 
 </div>
 
-[arXiv]([https://arxiv.org](https://arxiv.org/abs/2609.22119))
-
 ## Research Highlights
 
 - First mechanistic investigation of evaluation awareness in compact (1B–12B) language models.
 - Introduces a dual-pathway mitigation combining attribution-guided prompt editing and activation steering.
 - Evaluated across three model families (Gemma, Phi-3, Llama).
 - Uses representation probing and Integrated Gradients to study evaluation-awareness representations.
+
+[Research Paper](https://arxiv.org/abs/2609.22119)
 
 ---
 

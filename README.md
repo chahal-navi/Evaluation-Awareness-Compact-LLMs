@@ -10,7 +10,7 @@
 
 
 </div>
-
+[arXiv]([https://arxiv.org](https://arxiv.org/abs/2609.22119))
 ## Research Highlights
 
 - First mechanistic investigation of evaluation awareness in compact (1B–12B) language models.
